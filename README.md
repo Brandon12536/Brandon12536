@@ -1,6 +1,6 @@
-## Hi there 👋
+<!-- ## Hi there 👋
 
-<!--
+
 **Brandon12536/Brandon12536** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 ---
