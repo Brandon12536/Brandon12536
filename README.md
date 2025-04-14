@@ -86,6 +86,9 @@ Here are some ideas to get you started:
 ![Bitbucket](https://img.shields.io/badge/bitbucket-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white)
 
 ---
+## 🔄 Version Control
+
+![Git](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ## 🤖 AI & Data Tools
 
