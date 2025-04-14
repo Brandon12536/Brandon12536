@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## ⚙️ Ecosistema Tecnológico
+## ⚙️ Technology Ecosystem
 
 ![PHP](https://img.shields.io/badge/php-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
@@ -44,7 +44,7 @@ Here are some ideas to get you started:
 ![Glitch](https://img.shields.io/badge/glitch-3333FF?style=for-the-badge&logo=glitch&logoColor=white)
 ![Heroku](https://img.shields.io/badge/heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Amazon Web Services](https://img.shields.io/badge/aws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Amazon Web Services](https://img.shields.io/badge/amazon%20web%20services-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 
 ---
 
@@ -62,6 +62,23 @@ Here are some ideas to get you started:
 ![Ollama](https://img.shields.io/badge/ollama-000000?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSIjRkZGIiBoZWlnaHQ9IjE2IiB2aWV3Qm94PSIwIDAgMTYgMTYiIHdpZHRoPSIxNiIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48Y2lyY2xlIGN4PSI4IiBjeT0iOCIgcj0iOCIgc3R5bGU9ImZpbGw6IzAwMCIvPjwvc3ZnPg==)
 ![Windsurf](https://img.shields.io/badge/windsurf-1E90FF?style=for-the-badge&logo=azuredevops&logoColor=white)
 ![Cursor.ai](https://img.shields.io/badge/cursor.ai-000000?style=for-the-badge&logo=cursor&logoColor=white)
+![Lovable](https://img.shields.io/badge/lovable-FF69B4?style=for-the-badge&logo=love&logoColor=white)
+![V0](https://img.shields.io/badge/v0-7C3AED?style=for-the-badge&logo=vercel&logoColor=white)
+![Bolt](https://img.shields.io/badge/bolt-FFD600?style=for-the-badge&logo=zap&logoColor=black)
+![DeepSeek](https://img.shields.io/badge/deepseek-000000?style=for-the-badge&logo=deepin&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/tensorflow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![TensorFlow.js](https://img.shields.io/badge/tensorflow.js-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![OpenCV](https://img.shields.io/badge/opencv-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+
+---
+
+## 📝 Code Editors
+
+![Visual Studio Code](https://img.shields.io/badge/vscode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Windsurf](https://img.shields.io/badge/windsurf-1E90FF?style=for-the-badge&logo=azuredevops&logoColor=white)
+![Cursor.ai](https://img.shields.io/badge/cursor.ai-000000?style=for-the-badge&logo=cursor&logoColor=white)
+![Trae.ai](https://img.shields.io/badge/trae.ai-00BFFF?style=for-the-badge&logo=traefikproxy&logoColor=white)
 ![Lovable](https://img.shields.io/badge/lovable-FF69B4?style=for-the-badge&logo=love&logoColor=white)
 ![V0](https://img.shields.io/badge/v0-7C3AED?style=for-the-badge&logo=vercel&logoColor=white)
 ![Bolt](https://img.shields.io/badge/bolt-FFD600?style=for-the-badge&logo=zap&logoColor=black)
