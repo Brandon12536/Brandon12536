@@ -131,7 +131,7 @@ Here are some ideas to get you started:
 ## 🚀 Proyectos Destacados
 
 - [Aplicación Web Reservaciones de Viajes en Línea](https://maybetours.com/)
-- [App IA Educativa](https://github.com/Brandon12536/mi-app-ia)
+
 
 ## 📊 GitHub Stats
 
