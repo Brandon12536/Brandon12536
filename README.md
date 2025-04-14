@@ -17,7 +17,6 @@ Here are some ideas to get you started:
 
 ## 🛠️ Desarrollador Web Full Stack
 
-
 ![PHP](https://img.shields.io/badge/php-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -58,4 +57,5 @@ Here are some ideas to get you started:
 ![PicoCSS](https://img.shields.io/badge/pico.css-2D9CDB?style=for-the-badge&logo=pico&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Material Design Bootstrap](https://img.shields.io/badge/material--design--bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Material UI](https://img.shields.io/badge/material--ui-007FFF?style=for-the-badge&logo=mui&logoColor=white)yle=for-the-badge&logo=bootstrap&logoColor=white)
 ![Material UI](https://img.shields.io/badge/material--ui-007FFF?style=for-the-badge&logo=mui&logoColor=white)
