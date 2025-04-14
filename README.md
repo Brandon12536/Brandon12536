@@ -2,25 +2,6 @@
 
 <!--
 **Brandon12536/Brandon12536** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-<h1 align="center">¡Hola, soy Brandon! 👋</h1>
-<p align="center">
-  <img src="[https://readme-typing-svg.demolab.com](https://readme-typing-svg.demolab.com)?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Desarrollador+Full+Stack;Apasionado+por+la+IA+y+el+Dise%C3%B1o;Siempre+aprendiendo+y+colaborando" alt="Typing SVG" />
-</p>
-
-<p align="center">
-  <img src="[https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif") width="200"/>
-</p>
-
-<p align="center">
-  🚀 ¡Bienvenido a mi perfil de GitHub!  
-  <br>
-  Soy un desarrollador apasionado por crear soluciones innovadoras usando tecnología, diseño y automatización.  
-  Me encanta colaborar, aprender nuevas herramientas y compartir conocimiento con la comunidad.
-</p>
-
-<p align="center">
-  <b>💡 Siempre abierto a nuevas oportunidades y proyectos colaborativos.</b>
-</p>
 
 ---
 
