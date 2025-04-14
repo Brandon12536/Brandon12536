@@ -89,14 +89,6 @@ Here are some ideas to get you started:
 
 ---
 
-## ⚡ CI / CD
-
-![GitHub Actions](https://img.shields.io/badge/github%20actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![GitLab CI](https://img.shields.io/badge/gitlab%20ci-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
-![CircleCI](https://img.shields.io/badge/circleci-343434?style=for-the-badge&logo=circleci&logoColor=white)
-![Travis CI](https://img.shields.io/badge/travis%20ci-3EAAAF?style=for-the-badge&logo=travisci&logoColor=white)
-![Jenkins](https://img.shields.io/badge/jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-![Azure Pipelines](https://img.shields.io/badge/azure%20pipelines-2560E0?style=for-the-badge&logo=azurepipelines&logoColor=white)
 
 ## 🗃️ Repositories
 
