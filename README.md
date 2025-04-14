@@ -130,7 +130,7 @@ Here are some ideas to get you started:
 
 ## 🚀 Proyectos Destacados
 
-- [Aplicación Web Reservaciones de Viajes en Línea](https://maybetours.com/)
+- [Aplicación Web de Reservación de Viajes en Línea](https://maybetours.com/)
 
 
 ## 📊 GitHub Stats
