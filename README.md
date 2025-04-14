@@ -34,6 +34,13 @@ Here are some ideas to get you started:
 
 ---
 
+## 🎨 Herramientas de Diseño
+
+![Balsamiq](https://img.shields.io/badge/balsamiq-800000?style=for-the-badge&logo=balsamiq&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Adobe XD](https://img.shields.io/badge/adobe%20xd-FF61F6?style=for-the-badge&logo=adobexd&logoColor=white)
+![Whimsical](https://img.shields.io/badge/whimsical-5A28C4?style=for-the-badge&logo=whimsical&logoColor=white)
+
 ## 📱 Desarrollo Móvil
 
 ![Flutter](https://img.shields.io/badge/flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
