@@ -128,6 +128,11 @@ Here are some ideas to get you started:
 ![Trae.ai](https://img.shields.io/badge/trae.ai-00BFFF?style=for-the-badge&logo=traefikproxy&logoColor=white)
 
 
+## 🚀 Proyectos Destacados
+
+- [Mi Portafolio](https://maybetours.com/)
+- [App IA Educativa](https://github.com/Brandon12536/mi-app-ia)
+
 ## 📊 GitHub Stats
 
 ![Brandon's GitHub stats](https://github-readme-stats.vercel.app/api?username=Brandon12536&show_icons=true&theme=radical)
