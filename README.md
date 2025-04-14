@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 ![PostgreSQL](https://img.shields.io/badge/postgresql-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![React](https://img.shields.io/badge/react-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Astro](https://img.shields.io/badge/astro-1a1a1a?style=for-the-badge&logo=astro&logoColor=white)
-![Anthropic.js](https://img.shields.io/badge/anthropic.js-000000?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSIjRkZGIiBoZWlnaHQ9IjE2IiB2aWV3Qm94PSIwIDAgMTYgMTYiIHdpZHRoPSIxNiIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48Y2lyY2xlIGN4PSI4IiBjeT0iOCIgcj0iOCIvPjwvc3ZnPg==)
+![Atropos.js](https://img.shields.io/badge/Atropos.js-00B0FF?style=for-the-badge&logo=atropos&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/tailwindcss-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![PicoCSS](https://img.shields.io/badge/pico.css-2D9CDB?style=for-the-badge&logo=pico&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
