@@ -127,6 +127,12 @@ Here are some ideas to get you started:
 ![Cursor.ai](https://img.shields.io/badge/cursor.ai-000000?style=for-the-badge&logo=cursor&logoColor=white)
 ![Trae.ai](https://img.shields.io/badge/trae.ai-00BFFF?style=for-the-badge&logo=traefikproxy&logoColor=white)
 
+
+## 📊 GitHub Stats
+
+![Brandon's GitHub stats](https://github-readme-stats.vercel.app/api?username=Brandon12536&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Brandon12536&layout=compact&theme=radical)
+
 ## 📫 Contacto
 
 [![Gmail 1](https://img.shields.io/badge/gmail-ing.brandon.perez.r@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ing.brandon.perez.r@gmail.com)
