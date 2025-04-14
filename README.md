@@ -116,5 +116,5 @@ Here are some ideas to get you started:
 
 ## 📫 Contacto
 
-[![Gmail 1](https://img.shields.io/badge/gmail-brandon.dev.01@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:brandon.dev.01@gmail.com)
-[![Gmail 2](https://img.shields.io/badge/gmail-brandon12536@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:brandon12536@gmail.com)
+[![Gmail 1](https://img.shields.io/badge/gmail-ing.brandon.perez.r@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ing.brandon.perez.r@gmail.com)
+[![Gmail 2](https://img.shields.io/badge/gmail-brandonprbusiness@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:brandonprbusiness@gmail.com)
