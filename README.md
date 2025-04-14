@@ -79,11 +79,4 @@ Here are some ideas to get you started:
 ![Windsurf](https://img.shields.io/badge/windsurf-1E90FF?style=for-the-badge&logo=azuredevops&logoColor=white)
 ![Cursor.ai](https://img.shields.io/badge/cursor.ai-000000?style=for-the-badge&logo=cursor&logoColor=white)
 ![Trae.ai](https://img.shields.io/badge/trae.ai-00BFFF?style=for-the-badge&logo=traefikproxy&logoColor=white)
-![Lovable](https://img.shields.io/badge/lovable-FF69B4?style=for-the-badge&logo=love&logoColor=white)
-![V0](https://img.shields.io/badge/v0-7C3AED?style=for-the-badge&logo=vercel&logoColor=white)
-![Bolt](https://img.shields.io/badge/bolt-FFD600?style=for-the-badge&logo=zap&logoColor=black)
-![DeepSeek](https://img.shields.io/badge/deepseek-000000?style=for-the-badge&logo=deepin&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/tensorflow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![TensorFlow.js](https://img.shields.io/badge/tensorflow.js-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![OpenCV](https://img.shields.io/badge/opencv-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+
