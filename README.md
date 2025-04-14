@@ -113,3 +113,8 @@ Here are some ideas to get you started:
 ![Windsurf](https://img.shields.io/badge/windsurf-1E90FF?style=for-the-badge&logo=azuredevops&logoColor=white)
 ![Cursor.ai](https://img.shields.io/badge/cursor.ai-000000?style=for-the-badge&logo=cursor&logoColor=white)
 ![Trae.ai](https://img.shields.io/badge/trae.ai-00BFFF?style=for-the-badge&logo=traefikproxy&logoColor=white)
+
+## 📫 Contacto
+
+[![Gmail 1](https://img.shields.io/badge/gmail-brandon.dev.01@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:brandon.dev.01@gmail.com)
+[![Gmail 2](https://img.shields.io/badge/gmail-brandon12536@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:brandon12536@gmail.com)
