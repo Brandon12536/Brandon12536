@@ -85,6 +85,7 @@ Here are some ideas to get you started:
 ![Amazon Web Services](https://img.shields.io/badge/amazon%20web%20services-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![GitHub Pages](https://img.shields.io/badge/github%20pages-222?style=for-the-badge&logo=githubpages&logoColor=white)
 ![ngrok](https://img.shields.io/badge/ngrok-1F1E37?style=for-the-badge&logo=ngrok&logoColor=white)
+![Terraform](https://img.shields.io/badge/terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)
 
 ---
 
