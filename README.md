@@ -17,6 +17,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<h1 align="center">¡Hola, soy Brandon! 👋</h1>
+<p align="center">
+  Desarrollador Full Stack | Apasionado por la IA, el diseño y la tecnología 🚀
+</p>
+
 ## ⚙️ Technology Ecosystem
 
 ![PHP](https://img.shields.io/badge/php-777BB4?style=for-the-badge&logo=php&logoColor=white)
