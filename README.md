@@ -48,6 +48,11 @@ Here are some ideas to get you started:
 
 ---
 
+## 🔌 Electronics Technologies
+
+![MicroPython](https://img.shields.io/badge/micropython-2C3E50?style=for-the-badge&logo=micropython&logoColor=white)
+![Arduino](https://img.shields.io/badge/arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+
 ## 🎨 Herramientas de Diseño
 
 ![Balsamiq](https://img.shields.io/badge/balsamiq-800000?style=for-the-badge&logo=balsamiq&logoColor=white)
