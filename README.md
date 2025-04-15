@@ -163,3 +163,7 @@ Here are some ideas to get you started:
 - 🎧 Escuchar música
 - 🎮 Jugar videojuegos
 - ✈️ Viajar
+
+## 📝 Licencia
+
+Este README y mis proyectos están bajo mi autoría y protegidos por la licencia MIT.
