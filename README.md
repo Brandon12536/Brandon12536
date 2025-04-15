@@ -21,7 +21,9 @@ Here are some ideas to get you started:
 <p align="center">
   Desarrollador Full Stack | Apasionado por la IA, el diseño y la tecnología 🚀
 </p>
-
+<p align="center">
+  ![Visitas al perfil](https://komarev.com/ghpvc/?username=Brandon12536&style=for-the-badge)
+</p>
 ---
 
 > **Construyendo hoy lo que otros imaginarán mañana.**
