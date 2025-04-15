@@ -139,6 +139,10 @@ Here are some ideas to get you started:
 ![Cursor.ai](https://img.shields.io/badge/cursor.ai-000000?style=for-the-badge&logo=cursor&logoColor=white)
 ![Trae.ai](https://img.shields.io/badge/trae.ai-00BFFF?style=for-the-badge&logo=traefikproxy&logoColor=white)
 
+## 🔌 Herramientas de APIs
+
+![Postman](https://img.shields.io/badge/postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Thunder Client](https://img.shields.io/badge/thunder%20client-1A82E2?style=for-the-badge&logo=thunderclient&logoColor=white)
 
 ## 🚀 Proyectos Destacados
 
