@@ -144,6 +144,9 @@ Here are some ideas to get you started:
 
 - [Aplicación Web de Reservación de Viajes en Línea](https://maybetours.com/)
 
+## 🏅 Certificaciones
+
+- Introducción a Python de University of Michigan
 
 ## 📊 GitHub Stats
 
