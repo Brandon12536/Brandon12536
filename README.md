@@ -22,7 +22,7 @@ Here are some ideas to get you started:
   Desarrollador Full Stack | Apasionado por la IA, el diseño y la tecnología 🚀
 </p>
 
-![Visitas al perfil](https://komarev.com/ghpvc/?username=Brandon12536&style=for-the-badge)
+![Profile views](https://komarev.com/ghpvc/?username=Brandon12536&style=for-the-badge)
 
 ---
 
@@ -53,14 +53,14 @@ Here are some ideas to get you started:
 ![MicroPython](https://img.shields.io/badge/micropython-2C3E50?style=for-the-badge&logo=micropython&logoColor=white)
 ![Arduino](https://img.shields.io/badge/arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 
-## 🎨 Herramientas de Diseño
+## 🎨 Design Tools
 
 ![Balsamiq](https://img.shields.io/badge/balsamiq-800000?style=for-the-badge&logo=balsamiq&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Adobe XD](https://img.shields.io/badge/adobe%20xd-FF61F6?style=for-the-badge&logo=adobexd&logoColor=white)
 ![Whimsical](https://img.shields.io/badge/whimsical-5A28C4?style=for-the-badge&logo=whimsical&logoColor=white)
 
-## 📱 Desarrollo Móvil
+## 📱 Mobile Development
 
 ![Flutter](https://img.shields.io/badge/flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Ionic](https://img.shields.io/badge/ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white)
@@ -68,9 +68,20 @@ Here are some ideas to get you started:
 ![Expo Go](https://img.shields.io/badge/expo-000020?style=for-the-badge&logo=expo&logoColor=white)
 ![Dart](https://img.shields.io/badge/dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 
+## 🖥️ Desktop Development
+
+![Electron](https://img.shields.io/badge/electron-47848F?style=for-the-badge&logo=electron&logoColor=white)
+![Tkinter](https://img.shields.io/badge/tkinter-FFB300?style=for-the-badge&logo=python&logoColor=white)
+![PyQt](https://img.shields.io/badge/pyqt-41CD52?style=for-the-badge&logo=qt&logoColor=white)
+![JavaFX](https://img.shields.io/badge/javafx-007396?style=for-the-badge&logo=java&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![WinForms](https://img.shields.io/badge/winforms-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![WPF](https://img.shields.io/badge/wpf-68217A?style=for-the-badge&logo=windows&logoColor=white)
+![Flet](https://img.shields.io/badge/flet-009688?style=for-the-badge&logo=python&logoColor=white)
+
 ---
 
-## 🌐 Tecnologías Web
+## 🌐 Web Technologies
 
 ![HTML5](https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -144,35 +155,36 @@ Here are some ideas to get you started:
 ![Cursor.ai](https://img.shields.io/badge/cursor.ai-000000?style=for-the-badge&logo=cursor&logoColor=white)
 ![Trae.ai](https://img.shields.io/badge/trae.ai-00BFFF?style=for-the-badge&logo=traefikproxy&logoColor=white)
 
-## 🔌 Herramientas de APIs
+## 🔌 API Tools
 
 ![Postman](https://img.shields.io/badge/postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Thunder Client](https://img.shields.io/badge/thunder%20client-1A82E2?style=for-the-badge&logo=thunderclient&logoColor=white)
 
-## 🚀 Proyectos Destacados
+## 🚀 Featured Projects
 
-- [Aplicación Web de Reservación de Viajes en Línea](https://maybetours.com/)
+- [Online Travel Booking Web Application](https://maybetours.com/)
 
-## 🏅 Certificaciones
+## 🏅 Certifications
 
-- Introducción a Python de University of Michigan
+- Introduction to Python by University of Michigan
 
 ## 📊 GitHub Stats
 
 ![Brandon's GitHub stats](https://github-readme-stats.vercel.app/api?username=Brandon12536&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Brandon12536&layout=compact&theme=radical)
 
-## 📫 Contacto
+## 📫 Contact
 
 [![Gmail 1](https://img.shields.io/badge/gmail-ing.brandon.perez.r@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ing.brandon.perez.r@gmail.com)
 [![Gmail 2](https://img.shields.io/badge/gmail-brandonprbusiness@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:brandonprbusiness@gmail.com)
 
 ## 🎵 Hobbies
 
-- 🎧 Escuchar música
-- 🎮 Jugar videojuegos
-- ✈️ Viajar
+- 🎧 Listening to music
+- 🎮 Playing video games
+- ✈️ Traveling
 
-## 📝 Licencia
+## 📝 License
 
+<img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="MIT License" style="max-width: 100%;">
 Este README y mis proyectos están bajo mi autoría y protegidos por la licencia MIT.
