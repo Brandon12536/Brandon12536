@@ -88,9 +88,7 @@ Here are some ideas to get you started:
 ![Python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ---
-
-
-### Backend & Systems Programming
+### ⚙️ Backend & Systems Programming
 ![Go](https://img.shields.io/badge/go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![Rust](https://img.shields.io/badge/rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -183,6 +181,18 @@ Here are some ideas to get you started:
 ![Postman](https://img.shields.io/badge/postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Thunder Client](https://img.shields.io/badge/thunder%20client-1A82E2?style=for-the-badge&logo=thunderclient&logoColor=white)
 ![Insomnia](https://img.shields.io/badge/insomnia-4000BF?style=for-the-badge&logo=insomnia&logoColor=white)
+
+## 📄 API Documentation Tools
+
+![Swagger](https://img.shields.io/badge/swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
+![Redoc](https://img.shields.io/badge/redoc-EF233C?style=for-the-badge&logo=redoc&logoColor=white)
+![Stoplight](https://img.shields.io/badge/stoplight-21C7A8?style=for-the-badge&logo=stoplight&logoColor=white)
+![Apiary](https://img.shields.io/badge/apiary-FFB300?style=for-the-badge&logo=apiary&logoColor=white)
+![Slate](https://img.shields.io/badge/slate-2C3E50?style=for-the-badge&logo=slate&logoColor=white)
+![OpenAPI](https://img.shields.io/badge/openapi-6BA539?style=for-the-badge&logo=openapiinitiative&logoColor=white)
+![RAML](https://img.shields.io/badge/raml-005571?style=for-the-badge&logo=raml&logoColor=white)
+![API Blueprint](https://img.shields.io/badge/api%20blueprint-2D9CDB?style=for-the-badge&logo=apiblueprint&logoColor=white)
+![DapperDox](https://img.shields.io/badge/dapperdox-1A1A1A?style=for-the-badge&logo=dapperdox&logoColor=white)
 
 ## 🌐 Public & Mock APIs
 
