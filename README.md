@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 ---
 
-> **Construyendo hoy lo que otros imaginarán mañana.**
+> 🚀 **Construyendo hoy lo que otros imaginarán mañana.**
 
 ---
 ## ⚙️ Technology Ecosystem
