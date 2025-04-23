@@ -135,6 +135,7 @@ Here are some ideas to get you started:
 ![Glitch](https://img.shields.io/badge/glitch-3333FF?style=for-the-badge&logo=glitch&logoColor=white)
 ![Heroku](https://img.shields.io/badge/heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Amazon Web Services](https://img.shields.io/badge/amazon%20web%20services-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![GitHub Pages](https://img.shields.io/badge/github%20pages-222?style=for-the-badge&logo=githubpages&logoColor=white)
 ![ngrok](https://img.shields.io/badge/ngrok-1F1E37?style=for-the-badge&logo=ngrok&logoColor=white)
@@ -229,7 +230,18 @@ Here are some ideas to get you started:
 ### NoSQL Databases
 
 ![MongoDB](https://img.shields.io/badge/mongodb-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![CouchDB](https://img.shields.io/badge/couchdb-E42528?style=for-the-badge&logo=apachecouchdb&logoColor=white)
 ![MockAPI](https://img.shields.io/badge/mockapi-FF6C37?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSIjRkZGIiBoZWlnaHQ9IjE2IiB2aWV3Qm94PSIwIDAgMTYgMTYiIHdpZHRoPSIxNiIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48Y2lyY2xlIGN4PSI4IiBjeT0iOCIgcj0iOCIgc3R5bGU9ImZpbGw6I0ZGNkMzNyIvPjwvc3ZnPg==&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white)
+![Firestore](https://img.shields.io/badge/firestore-FFA000?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Redis](https://img.shields.io/badge/redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![DynamoDB](https://img.shields.io/badge/dynamodb-4053D6?style=for-the-badge&logo=amazondynamodb&logoColor=white)
+![Cassandra](https://img.shields.io/badge/cassandra-1287B1?style=for-the-badge&logo=apachecassandra&logoColor=white)
+![Neo4j](https://img.shields.io/badge/neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white)
+![RethinkDB](https://img.shields.io/badge/rethinkdb-FF9800?style=for-the-badge&logo=rethinkdb&logoColor=white)
+![ArangoDB](https://img.shields.io/badge/arangodb-DDE072?style=for-the-badge&logo=arangodb&logoColor=black)
+![PouchDB](https://img.shields.io/badge/pouchdb-4A90E2?style=for-the-badge&logo=pouchdb&logoColor=white)
+![LevelDB](https://img.shields.io/badge/leveldb-3C3C3C?style=for-the-badge&logo=leveldb&logoColor=white)
 
 ## 🚀 Featured Projects
 
