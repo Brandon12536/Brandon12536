@@ -125,7 +125,6 @@ Here are some ideas to get you started:
 ![PHP](https://img.shields.io/badge/php-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Ruby](https://img.shields.io/badge/ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
 
-
 ## 🧩 Frameworks
 
 ![Laravel](https://img.shields.io/badge/laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
@@ -144,7 +143,17 @@ Here are some ideas to get you started:
 ![Svelte](https://img.shields.io/badge/svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white)
 ![Flutter](https://img.shields.io/badge/flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
+### 🛠️ Build Tools & Task Runners
 
+![Grunt](https://img.shields.io/badge/grunt-FBA919?style=for-the-badge&logo=grunt&logoColor=black)
+
+### ⚡ JavaScript Runtimes
+
+![Bun.js](https://img.shields.io/badge/bun.js-000000?style=for-the-badge&logo=bun&logoColor=white)
+
+### 🗃️ ORMs & Database Tools
+
+![Prisma](https://img.shields.io/badge/prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
 
 ## 🚀 Deployment & Cloud
 
@@ -245,6 +254,9 @@ Here are some ideas to get you started:
 ![Jupyter](https://img.shields.io/badge/jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Dask](https://img.shields.io/badge/dask-111111?style=for-the-badge&logo=dask&logoColor=white)
 
+
+
+
 ## 🗄️ Databases
 
 ### SQL Databases
@@ -301,4 +313,3 @@ Here are some ideas to get you started:
 
 <img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="MIT License" style="max-width: 100%;">
 Este README y mis proyectos están bajo mi autoría y protegidos por la licencia MIT.
-
