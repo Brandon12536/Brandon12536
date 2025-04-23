@@ -126,6 +126,26 @@ Here are some ideas to get you started:
 ![Ruby](https://img.shields.io/badge/ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
 
 
+## 🧩 Frameworks
+
+![Laravel](https://img.shields.io/badge/laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Symfony](https://img.shields.io/badge/symfony-000000?style=for-the-badge&logo=symfony&logoColor=white)
+![Django](https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Spring](https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Express](https://img.shields.io/badge/express-000000?style=for-the-badge&logo=express&logoColor=white)
+![NestJS](https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![Ruby on Rails](https://img.shields.io/badge/rails-CC0000?style=for-the-badge&logo=rubyonrails&logoColor=white)
+![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Nuxt.js](https://img.shields.io/badge/nuxt.js-00C58E?style=for-the-badge&logo=nuxtdotjs&logoColor=white)
+![Angular](https://img.shields.io/badge/angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![React](https://img.shields.io/badge/react-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Vue.js](https://img.shields.io/badge/vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
+![Svelte](https://img.shields.io/badge/svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white)
+![Flutter](https://img.shields.io/badge/flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+
+
+
 ## 🚀 Deployment & Cloud
 
 ![Netlify](https://img.shields.io/badge/netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
@@ -281,3 +301,4 @@ Here are some ideas to get you started:
 
 <img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="MIT License" style="max-width: 100%;">
 Este README y mis proyectos están bajo mi autoría y protegidos por la licencia MIT.
+
