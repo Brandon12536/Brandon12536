@@ -183,6 +183,23 @@ Here are some ideas to get you started:
 ![Thunder Client](https://img.shields.io/badge/thunder%20client-1A82E2?style=for-the-badge&logo=thunderclient&logoColor=white)
 ![Insomnia](https://img.shields.io/badge/insomnia-4000BF?style=for-the-badge&logo=insomnia&logoColor=white)
 
+## 🌐 Public & Mock APIs
+
+![FakeStoreAPI](https://img.shields.io/badge/fakestoreapi-FF6C37?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSIjRkZGIiBoZWlnaHQ9IjE2IiB2aWV3Qm94PSIwIDAgMTYgMTYiIHdpZHRoPSIxNiIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48Y2lyY2xlIGN4PSI4IiBjeT0iOCIgcj0iOCIgc3R5bGU9ImZpbGw6I0ZGNkMzNyIvPjwvc3ZnPg==&logoColor=white)
+![PokeAPI](https://img.shields.io/badge/pokeapi-FFCB05?style=for-the-badge&logo=pokemon&logoColor=black)
+![JSONPlaceholder](https://img.shields.io/badge/jsonplaceholder-4A90E2?style=for-the-badge&logo=json&logoColor=white)
+![ReqRes](https://img.shields.io/badge/reqres-3C3C3C?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSIjM0MzQzNDIiBoZWlnaHQ9IjE2IiB2aWV3Qm94PSIwIDAgMTYgMTYiIHdpZHRoPSIxNiIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48Y2lyY2xlIGN4PSI4IiBjeT0iOCIgcj0iOCIgc3R5bGU9ImZpbGw6IzNDM0MzQyIvPjwvc3ZnPg==&logoColor=white)
+![OpenWeather](https://img.shields.io/badge/openweather-FFA500?style=for-the-badge&logo=openweathermap&logoColor=white)
+![TheDogAPI](https://img.shields.io/badge/thedogapi-FF9800?style=for-the-badge&logo=dog&logoColor=white)
+![TheCatAPI](https://img.shields.io/badge/thecatapi-607D8B?style=for-the-badge&logo=cat&logoColor=white)
+![SpaceX API](https://img.shields.io/badge/spacex%20api-212121?style=for-the-badge&logo=spacex&logoColor=white)
+![GhibliAPI](https://img.shields.io/badge/ghibliapi-81C784?style=for-the-badge&logo=studio-ghibli&logoColor=white)
+![Breaking Bad API](https://img.shields.io/badge/breaking%20bad%20api-388E3C?style=for-the-badge&logo=breaking-bad&logoColor=white)
+![Rick and Morty API](https://img.shields.io/badge/rick%20and%20morty%20api-00BFFF?style=for-the-badge&logo=rickandmorty&logoColor=white)
+![Star Wars API](https://img.shields.io/badge/star%20wars%20api-FFE81F?style=for-the-badge&logo=star-wars&logoColor=black)
+![Public APIs](https://img.shields.io/badge/public%20apis-333333?style=for-the-badge&logo=api&logoColor=white)
+![MockAPI](https://img.shields.io/badge/mockapi-FF6C37?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSIjRkZGIiBoZWlnaHQ9IjE2IiB2aWV3Qm94PSIwIDAgMTYgMTYiIHdpZHRoPSIxNiIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48Y2lyY2xlIGN4PSI4IiBjeT0iOCIgcj0iOCIgc3R5bGU9ImZpbGw6I0ZGNkMzNyIvPjwvc3ZnPg==&logoColor=white)
+
 ## 📊 Data Science & Machine Learning
 
 ![NumPy](https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
@@ -212,6 +229,7 @@ Here are some ideas to get you started:
 ### NoSQL Databases
 
 ![MongoDB](https://img.shields.io/badge/mongodb-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MockAPI](https://img.shields.io/badge/mockapi-FF6C37?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSIjRkZGIiBoZWlnaHQ9IjE2IiB2aWV3Qm94PSIwIDAgMTYgMTYiIHdpZHRoPSIxNiIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48Y2lyY2xlIGN4PSI4IiBjeT0iOCIgcj0iOCIgc3R5bGU9ImZpbGw6I0ZGNkMzNyIvPjwvc3ZnPg==&logoColor=white)
 
 ## 🚀 Featured Projects
 
