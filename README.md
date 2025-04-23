@@ -259,7 +259,7 @@ Here are some ideas to get you started:
 
 ## 🗄️ Databases
 
-### SQL Databases
+### 🗄️ SQL Databases
 
 ![Supabase](https://img.shields.io/badge/supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/mariadb-003545?style=for-the-badge&logo=mariadb&logoColor=white)
@@ -269,7 +269,7 @@ Here are some ideas to get you started:
 ![HeidiSQL](https://img.shields.io/badge/heidisql-4479A1?style=for-the-badge&logo=heidisql&logoColor=white)
 ![MySQL Workbench](https://img.shields.io/badge/mysql%20workbench-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-### NoSQL Databases
+### 🗂️ NoSQL Databases
 
 ![MongoDB](https://img.shields.io/badge/mongodb-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![CouchDB](https://img.shields.io/badge/couchdb-E42528?style=for-the-badge&logo=apachecouchdb&logoColor=white)
