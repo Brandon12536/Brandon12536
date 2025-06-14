@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 <h1 align="center">¡Hola, soy Brandon! 👋</h1>
 <p align="center">
-  Desarrollador Full Stack | Apasionado por la IA, el diseño y la tecnología 🚀
+  DevOps Engineer | Apasionado por la IA, el diseño y la tecnología 🚀
 </p>
 
 ![Profile views](https://komarev.com/ghpvc/?username=Brandon12536&style=for-the-badge)
