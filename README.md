@@ -305,9 +305,9 @@ Here are some ideas to get you started:
 
 ## 🎵 Hobbies
 
-- 🎧 Listening to music
-- 🎮 Playing video games
-- ✈️ Traveling
+- 🎧 Play music
+- 🎮 Play video games
+- ✈️ Travell
 
 ## 📝 License
 
