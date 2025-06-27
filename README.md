@@ -286,7 +286,7 @@ Here are some ideas to get you started:
 ![PouchDB](https://img.shields.io/badge/pouchdb-4A90E2?style=for-the-badge&logo=pouchdb&logoColor=white)
 ![LevelDB](https://img.shields.io/badge/leveldb-3C3C3C?style=for-the-badge&logo=leveldb&logoColor=white)
 
-⚙️ CI/CD Platforms
+## ⚙️ CI/CD Platforms
 
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![GitLab CI](https://img.shields.io/badge/gitlab%20ci-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
@@ -294,33 +294,34 @@ Here are some ideas to get you started:
 ![Travis CI](https://img.shields.io/badge/travis%20ci-3EAAAF?style=for-the-badge&logo=travis&logoColor=white)
 ![CircleCI](https://img.shields.io/badge/circle%20ci-343434?style=for-the-badge&logo=circleci&logoColor=white)
 
-🐳 Container Tools
+## 🐳 Container Tools
 
 ![Docker](https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 
-🚀 Deployment
+## 🚀 Deployment
 
 ![AWS](https://img.shields.io/badge/aws-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/google%20cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Azure](https://img.shields.io/badge/azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 
-🧪 Testing Tools
+## 🧪 Testing Tools
+
 ![Selenium](https://img.shields.io/badge/selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 ![Jest](https://img.shields.io/badge/jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
 ![Cypress](https://img.shields.io/badge/cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
 
-📊 Monitoring
+## 📊 Monitoring
 
 ![Prometheus](https://img.shields.io/badge/prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
 ![Grafana](https://img.shields.io/badge/grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 
-🏗️ Infrastructure as Code
+## 🏗️ Infrastructure as Code
 
 ![Terraform](https://img.shields.io/badge/terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
 ![Ansible](https://img.shields.io/badge/ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
 
-🔨 Build Tools
+## 🔨 Build Tools
 
 ![Maven](https://img.shields.io/badge/maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)
 ![Gradle](https://img.shields.io/badge/gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white)
