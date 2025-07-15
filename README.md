@@ -48,7 +48,7 @@ Soy un ingeniero DevOps con pasión por la inteligencia artificial, la automatiz
 
 </td>
 <td valign="top" width="40%">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Brandon12536&bg_color=0d1117&color=00ffee&line=00ffee&point=ffffff&area=true&hide_border=true" width="100%" alt="activity graph" />
+  <img src="https://media.giphy.com/media/26BRuo6sLetdllPAQ/giphy.gif" width="100%" alt="coding gif matrix style" />
 </td>
 
 
