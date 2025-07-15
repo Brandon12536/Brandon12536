@@ -30,11 +30,69 @@ Here are some ideas to get you started:
 
 ---
 
+<!-- Encabezado animado -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=%F0%9F%91%8B+Hola%2C+soy+Brandon!;DevOps+Engineer+%F0%9F%9A%80;Apasionado+por+la+tecnolog%C3%ADa+%26+la+IA" alt="Typing SVG" />
+</p>
+
+---
+
+## 🧑‍💻 Sobre mí
+
+<table>
+<tr>
+<td valign="top" width="60%">
+
+Soy un ingeniero DevOps con pasión por la inteligencia artificial, la automatización y el diseño de interfaces. Me encanta combinar creatividad y tecnología para resolver problemas reales.
+
+- 🧠 Siempre aprendiendo cosas nuevas  
+- 🎯 Amante de los retos técnicos  
+- 💡 Interesado en soluciones reales con IA  
+- 📍 Basado en México 🇲🇽
+
+</td>
+<td valign="top" width="40%">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="dev gif" />
+</td>
+</tr>
+</table>
+
+---
+
+## 🚀 Proyectos Destacados
+
+| Proyecto | Descripción | Tecnologías |
+|---------|-------------|-------------|
+| [🌐 Maybetours](https://maybetours.com/) | Aplicación web de reservación de viajes | Next.js, Tailwind, Supabase |
+| [📦 Sistema POS IA](#) | Sistema de punto de venta moderno con IA integrada | React, NestJS, Supabase |
+
+---
+
 ## 🧠 Conocimientos y herramientas que domino:
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,nestjs,tailwind,supabase,postgres,vercel,figma,git,github,prisma,docker,linux,vscode,astro,bash" />
 </div>
+
+---
+
+## 🔧 Tecnologías favoritas para trabajar
+
+- ✨ Next.js + Tailwind + Supabase para apps modernas
+- 🔐 Node.js + Prisma + PostgreSQL para backends sólidos
+- 🔄 Docker + GitHub Actions para DevOps y CI/CD
+- 🧠 IA generativa con OpenAI & visión computacional
+- 💻 Diseño UI/UX con Figma + herramientas no-code
+
+---
+
+## 🧩 Stack actual
+
+```bash
+> Frontend: React, Next.js, Tailwind, Figma, Framer Motion  
+> Backend: Node.js, NestJS, Supabase, PostgreSQL, Prisma  
+> DevOps: Docker, GitHub Actions, Linux  
+> Otros: Vercel, Railway, Render, Stripe, Telegram Bot API  
 
 
 ## ⚙️ Technology Ecosystem
