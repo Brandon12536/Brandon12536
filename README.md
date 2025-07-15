@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 ---
 
-## 🧑‍💻 Sobre mí
+## 🧑‍💻 About Me
 
 <table>
 <tr>
@@ -61,7 +61,7 @@ Soy un ingeniero DevOps con pasión por la inteligencia artificial, la automatiz
 
 ---
 
-## 🚀 Proyectos Destacados
+## 🚀 Featured Projects
 
 | Proyecto | Descripción | Tecnologías |
 |---------|-------------|-------------|
@@ -69,7 +69,7 @@ Soy un ingeniero DevOps con pasión por la inteligencia artificial, la automatiz
 
 ---
 
-## 🧠 Conocimientos y herramientas que domino:
+## 🧠 Skills & Tools:
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,nestjs,tailwind,supabase,postgres,vercel,figma,git,github,prisma,docker,linux,vscode,astro,bash" />
