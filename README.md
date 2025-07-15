@@ -48,7 +48,7 @@ Soy un ingeniero DevOps con pasión por la inteligencia artificial, la automatiz
 
 </td>
 <td valign="top" width="40%">
-  <img src="https://media.giphy.com/media/26BRuo6sLetdllPAQ/giphy.gif" width="100%" alt="coding gif matrix style" />
+  <img src="https://media.giphy.com/media/xT0xeJpnrWC4XWblEk/giphy.gif" width="100%" alt="DevOps automation gif" />
 </td>
 
 
