@@ -18,8 +18,9 @@ Here are some ideas to get you started:
 -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=%F0%9F%91%8B+Hola%2C+soy+Brandon!;DevOps+Engineer+%F0%9F%9A%80;Apasionado+por+la+tecnolog%C3%ADa+%26+la+IA" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=%F0%9F%91%8B+Hola%2C+soy+Brandon!;Ingeniero+DevOps+%F0%9F%9A%80;Amante+de+la+automatizaci%C3%B3n+%26+la+IA;Cloud%2C+CI%2FCD%2C+Docker%2C+Kubernetes+%E2%9C%A8" alt="Typing SVG" />
 </p>
+
 <p align="center">
   DevOps Engineer | Apasionado por la IA, el diseño y la tecnología 🚀
 </p>
