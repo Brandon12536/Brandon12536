@@ -48,8 +48,9 @@ Soy un ingeniero DevOps con pasión por la inteligencia artificial, la automatiz
 
 </td>
 <td valign="top" width="40%">
-  <img src="https://raw.githubusercontent.com/Brandon12536/Brandon12536/main/assets/ai-coding.png" width="100%" alt="IA y desarrollo" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Brandon12536&bg_color=0d1117&color=00ffee&line=00ffee&point=ffffff&area=true&hide_border=true" width="100%" alt="activity graph" />
 </td>
+
 
 </tr>
 </table>
