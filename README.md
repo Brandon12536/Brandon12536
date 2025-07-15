@@ -29,6 +29,14 @@ Here are some ideas to get you started:
 > 🚀 **Construyendo hoy lo que otros imaginarán mañana.**
 
 ---
+
+## 🧠 Conocimientos y herramientas que domino:
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,nestjs,tailwind,supabase,postgres,vercel,figma,git,github,prisma,docker,linux,vscode,astro,bash" />
+</div>
+
+
 ## ⚙️ Technology Ecosystem
 
 ![PHP](https://img.shields.io/badge/php-777BB4?style=for-the-badge&logo=php&logoColor=white)
