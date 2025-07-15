@@ -18,8 +18,9 @@ Here are some ideas to get you started:
 -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FFFFFF&center=true&vCenter=true&width=550&lines=%F0%9F%91%8B+Hola%2C+soy+Brandon!;Especialista+en+DevOps+%26+Cloud+%E2%9C%A8;Docker+%7C+Kubernetes+%7C+Terraform+%7C+CI%2FCD;Automatizaci%C3%B3n+%7C+Monitorizaci%C3%B3n+%7C+Scripting" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=%F0%9F%91%8B+Hola%2C+soy+Brandon!;DevOps+Engineer+%F0%9F%9A%80;Amante+de+la+automatizaci%C3%B3n+%26+la+IA;Cloud%2C+CI%2FCD%2C+Docker%2C+Kubernetes+%E2%9C%A8" alt="Typing SVG" />
 </p>
+
 
 
 <p align="center">
