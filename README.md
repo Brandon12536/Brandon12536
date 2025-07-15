@@ -224,6 +224,8 @@ Here are some ideas to get you started:
 ![RAML](https://img.shields.io/badge/raml-005571?style=for-the-badge&logo=raml&logoColor=white)
 ![API Blueprint](https://img.shields.io/badge/api%20blueprint-2D9CDB?style=for-the-badge&logo=apiblueprint&logoColor=white)
 ![DapperDox](https://img.shields.io/badge/dapperdox-1A1A1A?style=for-the-badge&logo=dapperdox&logoColor=white)
+![Docusaurus](https://img.shields.io/badge/docusaurus-1A1A1A?style=for-the-badge&logo=docusaurus&logoColor=white)
+
 
 ## 🌐 Public & Mock APIs
 
