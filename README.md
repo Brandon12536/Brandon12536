@@ -48,8 +48,9 @@ Soy un ingeniero DevOps con pasión por la inteligencia artificial, la automatiz
 
 </td>
 <td valign="top" width="40%">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="dev gif" />
+  <img src="https://raw.githubusercontent.com/Brandon12536/Brandon12536/main/assets/ai-coding.png" width="100%" alt="IA y desarrollo" />
 </td>
+
 </tr>
 </table>
 
