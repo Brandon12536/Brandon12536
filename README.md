@@ -63,8 +63,7 @@ Soy un ingeniero DevOps con pasión por la inteligencia artificial, la automatiz
 
 | Proyecto | Descripción | Tecnologías |
 |---------|-------------|-------------|
-| [🌐 Maybetours](https://maybetours.com/) | Aplicación web de reservación de viajes | Next.js, Tailwind, Supabase |
-| [📦 Sistema POS IA](#) | Sistema de punto de venta moderno con IA integrada | React, NestJS, Supabase |
+| [🌐 Maybetours](https://maybetours.com/) | Aplicación web de reservación de viajes |PHP, Stripe, Bootstrap5, Material Design Bootstrap, CSS3, HTML5 |
 
 ---
 
@@ -74,25 +73,6 @@ Soy un ingeniero DevOps con pasión por la inteligencia artificial, la automatiz
   <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,nestjs,tailwind,supabase,postgres,vercel,figma,git,github,prisma,docker,linux,vscode,astro,bash" />
 </div>
 
----
-
-## 🔧 Tecnologías favoritas para trabajar
-
-- ✨ Next.js + Tailwind + Supabase para apps modernas
-- 🔐 Node.js + Prisma + PostgreSQL para backends sólidos
-- 🔄 Docker + GitHub Actions para DevOps y CI/CD
-- 🧠 IA generativa con OpenAI & visión computacional
-- 💻 Diseño UI/UX con Figma + herramientas no-code
-
----
-
-## 🧩 Stack actual
-
-```bash
-> Frontend: React, Next.js, Tailwind, Figma, Framer Motion  
-> Backend: Node.js, NestJS, Supabase, PostgreSQL, Prisma  
-> DevOps: Docker, GitHub Actions, Linux  
-> Otros: Vercel, Railway, Render, Stripe, Telegram Bot API  
 
 
 ## ⚙️ Technology Ecosystem
