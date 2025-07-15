@@ -17,7 +17,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">¡Hola, soy Brandon! 👋</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=%F0%9F%91%8B+Hola%2C+soy+Brandon!;DevOps+Engineer+%F0%9F%9A%80;Apasionado+por+la+tecnolog%C3%ADa+%26+la+IA" alt="Typing SVG" />
+</p>
 <p align="center">
   DevOps Engineer | Apasionado por la IA, el diseño y la tecnología 🚀
 </p>
@@ -29,11 +31,6 @@ Here are some ideas to get you started:
 > 🚀 **Construyendo hoy lo que otros imaginarán mañana.**
 
 ---
-
-<!-- Encabezado animado -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=%F0%9F%91%8B+Hola%2C+soy+Brandon!;DevOps+Engineer+%F0%9F%9A%80;Apasionado+por+la+tecnolog%C3%ADa+%26+la+IA" alt="Typing SVG" />
-</p>
 
 ---
 
@@ -48,7 +45,6 @@ Soy un ingeniero DevOps con pasión por la inteligencia artificial, la automatiz
 - 🧠 Siempre aprendiendo cosas nuevas  
 - 🎯 Amante de los retos técnicos  
 - 💡 Interesado en soluciones reales con IA  
-- 📍 Basado en México 🇲🇽
 
 </td>
 <td valign="top" width="40%">
