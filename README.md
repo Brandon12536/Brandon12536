@@ -385,14 +385,7 @@ Soy un ingeniero DevOps con pasión por la inteligencia artificial, la automatiz
 ## 🎥 Latest TikToks
 
 <div align="center">
-  <iframe
-    src="https://www.tiktok.com/embed/7527659828571852053"
-    width="325"
-    height="575"
-    allowfullscreen
-    frameborder="0"
-    sandbox="allow-scripts allow-same-origin allow-popups allow-presentation"
-  ></iframe>
+  <iframe src="https://www.tiktok.com/embed/7527659828571852053" width="325" height="575" allowfullscreen frameborder="0" sandbox="allow-scripts allow-same-origin allow-popups allow-presentation"></iframe>
 </div>
 
 ## 🏅 Certifications
