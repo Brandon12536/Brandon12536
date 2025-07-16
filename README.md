@@ -45,6 +45,9 @@ Here are some ideas to get you started:
   <a href="https://www.linkedin.com/in/brandon-perez-reyes-667634264/" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+  <a href="https://coff.ee/brandonperezr" target="_blank">
+    <img src="https://img.shields.io/badge/buy%20me%20a%20coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=white&labelColor=303030" />
+  </a>
 </p>
 
 
@@ -426,10 +429,3 @@ Here are some ideas to get you started:
 - 🎧 Play music
 - 🎮 Play video games
 - ✈️ Travell
-
-
-<p align="center">
-  <a href="https://coff.ee/brandonperezr" target="_blank">
-    <img src="https://img.shields.io/badge/buy%20me%20a%20coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=white&labelColor=303030" />
-  </a>
-</p>
