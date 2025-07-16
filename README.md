@@ -382,9 +382,18 @@ Soy un ingeniero DevOps con pasión por la inteligencia artificial, la automatiz
 ![Maven](https://img.shields.io/badge/maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)
 ![Gradle](https://img.shields.io/badge/gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white)
 
-## 🚀 Featured Projects
+## 🎥 Latest TikToks
 
-- [Online Travel Booking Web Application](https://maybetours.com/)
+<div align="center">
+  <iframe
+    src="https://www.tiktok.com/embed/7527659828571852053"
+    width="325"
+    height="575"
+    allowfullscreen
+    frameborder="0"
+    sandbox="allow-scripts allow-same-origin allow-popups allow-presentation"
+  ></iframe>
+</div>
 
 ## 🏅 Certifications
 
