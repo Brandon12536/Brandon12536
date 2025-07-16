@@ -25,16 +25,27 @@ Here are some ideas to get you started:
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=%F0%9F%91%8B+Hola%2C+soy+Brandon!;DevOps+Engineer+%F0%9F%9A%80;Amante+de+la+automatizaci%C3%B3n+%26+la+IA;Cloud%2C+CI%2FCD%2C+Docker%2C+Kubernetes+%E2%9C%A8" alt="Typing SVG" />
 </p>
 
-
+<p align="center">
+  <img src="https://badges.pufler.dev/visits/Brandon12536/Brandon12536?style=for-the-badge&logo=github&color=000000&logoColor=white" />
+  <img src="https://badges.pufler.dev/repos/Brandon12536?style=for-the-badge&logo=github&color=000000&logoColor=white" />
+  <img src="https://badges.pufler.dev/commits/Brandon12536/Brandon12536?style=for-the-badge&logo=github&color=000000&logoColor=white" />
+</p>
 
 <p align="center">
   DevOps Engineer | Apasionado por la IA, el diseño y la tecnología 🚀
 </p>
 
-![Profile views](https://komarev.com/ghpvc/?username=Brandon12536&style=for-the-badge)
-[![GitLab](https://img.shields.io/badge/gitlab-181717?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/Brandon12536)
-[![TikTok](https://img.shields.io/badge/tiktok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://tiktok.com/@brandonperez7755)
-[![LinkedIn](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brandon-perez-reyes-667634264/)
+<p align="center">
+  <a href="https://gitlab.com/Brandon12536" target="_blank">
+    <img src="https://img.shields.io/badge/gitlab-181717?style=for-the-badge&logo=gitlab&logoColor=white" />
+  </a>
+  <a href="https://tiktok.com/@brandonperez7755" target="_blank">
+    <img src="https://img.shields.io/badge/tiktok-000000?style=for-the-badge&logo=tiktok&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/brandon-perez-reyes-667634264/" target="_blank">
+    <img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
 
 ---
 
@@ -42,35 +53,64 @@ Here are some ideas to get you started:
 
 ---
 
----
-
 ## 🧑‍💻 About Me
 
 <table>
-<tr>
-<td valign="top" width="60%">
-
-Soy un ingeniero DevOps con pasión por la inteligencia artificial, la automatización y el diseño de interfaces. Me encanta combinar creatividad y tecnología para resolver problemas reales.
-
-- 🧠 Siempre aprendiendo cosas nuevas  
-- 🎯 Amante de los retos técnicos  
-- 💡 Interesado en soluciones reales con IA  
-
-</td>
-
-
-
-
-</tr>
+  <tr>
+    <td valign="top" width="60%">
+      <p align="left">
+        <img src="https://github-readme-stats.vercel.app/api?username=Brandon12536&show_icons=true&theme=github_dark&hide_border=true" align="right" />
+        
+        Soy un ingeniero DevOps con pasión por la inteligencia artificial, la automatización y el diseño de interfaces. Me encanta combinar creatividad y tecnología para resolver problemas reales.
+      </p>
+      
+      <p align="left">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brandon12536&layout=compact&theme=github_dark&hide_border=true" align="right" />
+        
+        - 🧠 Siempre aprendiendo cosas nuevas  
+        - 🎯 Amante de los retos técnicos  
+        - 💡 Interesado en soluciones reales con IA  
+      </p>
+    </td>
+  </tr>
 </table>
 
 ---
 
 ## 🚀 Featured Projects
 
-| Proyecto | Descripción | Tecnologías |
-|---------|-------------|-------------|
-| [🌐 Maybetours](https://maybetours.com/) | Aplicación web de reservación de viajes |PHP, Stripe, Bootstrap5, Material Design Bootstrap, CSS3, HTML5 |
+<div align="center">
+  <table style="border-collapse: collapse; width: 100%;">
+    <thead>
+      <tr>
+        <th style="border: none; padding: 8px; text-align: left; font-size: 16px; font-weight: bold;">
+          Proyecto
+        </th>
+        <th style="border: none; padding: 8px; text-align: left; font-size: 16px; font-weight: bold;">
+          Descripción
+        </th>
+        <th style="border: none; padding: 8px; text-align: left; font-size: 16px; font-weight: bold;">
+          Tecnologías
+        </th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td style="border: none; padding: 8px;">
+          <a href="https://maybetours.com/" target="_blank">
+            🌐 Maybetours
+          </a>
+        </td>
+        <td style="border: none; padding: 8px;">
+          Aplicación web de reservación de viajes
+        </td>
+        <td style="border: none; padding: 8px;">
+          PHP, Stripe, Bootstrap5, Material Design Bootstrap, CSS3, HTML5
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</div>
 
 ---
 
@@ -84,20 +124,34 @@ Soy un ingeniero DevOps con pasión por la inteligencia artificial, la automatiz
 
 ## ⚙️ Technology Ecosystem
 
-![PHP](https://img.shields.io/badge/php-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Streamlit](https://img.shields.io/badge/streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![Python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![CouchDB](https://img.shields.io/badge/couchdb-E42528?style=for-the-badge&logo=apachecouchdb&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/postgresql-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![React](https://img.shields.io/badge/react-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Astro](https://img.shields.io/badge/astro-1a1a1a?style=for-the-badge&logo=astro&logoColor=white)
-![Atropos.js](https://img.shields.io/badge/Atropos.js-00B0FF?style=for-the-badge&logo=atropos&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/tailwindcss-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![PicoCSS](https://img.shields.io/badge/pico.css-2D9CDB?style=for-the-badge&logo=pico&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Material Design Bootstrap](https://img.shields.io/badge/material--design--bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Material UI](https://img.shields.io/badge/material--ui-007FFF?style=for-the-badge&logo=mui&logoColor=white)
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <img src="https://img.shields.io/badge/php-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+        <img src="https://img.shields.io/badge/streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
+        <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/couchdb-E42528?style=for-the-badge&logo=apachecouchdb&logoColor=white" />
+      </td>
+      <td>
+        <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+        <img src="https://img.shields.io/badge/postgresql-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+        <img src="https://img.shields.io/badge/react-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+        <img src="https://img.shields.io/badge/astro-1a1a1a?style=for-the-badge&logo=astro&logoColor=white" />
+      </td>
+      <td>
+        <img src="https://img.shields.io/badge/Atropos.js-00B0FF?style=for-the-badge&logo=atropos&logoColor=white" />
+        <img src="https://img.shields.io/badge/tailwindcss-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+        <img src="https://img.shields.io/badge/pico.css-2D9CDB?style=for-the-badge&logo=pico&logoColor=white" />
+        <img src="https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
+      </td>
+      <td>
+        <img src="https://img.shields.io/badge/material--design--bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
+        <img src="https://img.shields.io/badge/material--ui-007FFF?style=for-the-badge&logo=mui&logoColor=white" />
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
@@ -382,11 +436,6 @@ Soy un ingeniero DevOps con pasión por la inteligencia artificial, la automatiz
 ![Maven](https://img.shields.io/badge/maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)
 ![Gradle](https://img.shields.io/badge/gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white)
 
-## 🎥 Latest TikToks
-
-<div align="center">
-  <a href="https://www.tiktok.com/@brandonperez7755" target="_blank">TikTok Profile</a>
-</div>
 
 ## 🏅 Certifications
 
@@ -394,13 +443,23 @@ Soy un ingeniero DevOps con pasión por la inteligencia artificial, la automatiz
 
 ## 📊 GitHub Stats
 
-![Brandon's GitHub stats](https://github-readme-stats.vercel.app/api?username=Brandon12536&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Brandon12536&layout=compact&theme=tokyonight)
-
-<td valign="top" width="40%">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Brandon12536&bg_color=1f2327&color=47a6ff&line=47a6ff&point=ffffff&area=true&hide_border=true" width="100%" alt="activity graph" />
-</td>
-
+<div align="center">
+  <table style="width: 100%;">
+    <tr>
+      <td align="center">
+        <img src="https://github-readme-stats.vercel.app/api?username=Brandon12536&show_icons=true&theme=tokyonight" />
+      </td>
+      <td align="center">
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=Brandon12536&bg_color=000000&color=4078c0&line=4078c0&point=ffffff&area=true&hide_border=true" />
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brandon12536&layout=compact&theme=tokyonight" />
+      </td>
+    </tr>
+  </table>
+</div>
 
 ## 📫 Contact
 
@@ -412,8 +471,3 @@ Soy un ingeniero DevOps con pasión por la inteligencia artificial, la automatiz
 - 🎧 Play music
 - 🎮 Play video games
 - ✈️ Travell
-
-## 📝 License
-
-<img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="MIT License" style="max-width: 100%;">
-Este README y mis proyectos están bajo mi autoría y protegidos por la licencia MIT.
