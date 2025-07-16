@@ -18,6 +18,10 @@ Here are some ideas to get you started:
 -->
 
 <p align="center">
+  <img src="img/bg.jpg" alt="Background Image" width="100%" />
+</p>
+
+<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=%F0%9F%91%8B+Hola%2C+soy+Brandon!;DevOps+Engineer+%F0%9F%9A%80;Amante+de+la+automatizaci%C3%B3n+%26+la+IA;Cloud%2C+CI%2FCD%2C+Docker%2C+Kubernetes+%E2%9C%A8" alt="Typing SVG" />
 </p>
 
@@ -50,9 +54,7 @@ Soy un ingeniero DevOps con pasión por la inteligencia artificial, la automatiz
 - 💡 Interesado en soluciones reales con IA  
 
 </td>
-<td valign="top" width="40%">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="dev gif" />
-</td>
+
 
 
 
