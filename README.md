@@ -385,7 +385,7 @@ Soy un ingeniero DevOps con pasión por la inteligencia artificial, la automatiz
 ## 🎥 Latest TikToks
 
 <div align="center">
-  [![TikTok Video](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@brandonperez7755)
+  <a href="https://www.tiktok.com/@brandonperez7755" target="_blank">TikTok Profile</a>
 </div>
 
 ## 🏅 Certifications
