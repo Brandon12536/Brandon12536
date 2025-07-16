@@ -430,6 +430,6 @@ Here are some ideas to get you started:
 
 <p align="center">
   <a href="https://coff.ee/brandonperezr" target="_blank">
-    <img src="https://img.shields.io/badge/buy%20me%20a%20coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black" />
+    <img src="https://img.shields.io/badge/buy%20me%20a%20coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=white&labelColor=303030" />
   </a>
 </p>
