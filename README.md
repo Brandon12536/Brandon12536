@@ -33,9 +33,6 @@ Here are some ideas to get you started:
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Brandon12536&style=for-the-badge" />
-  <img src="https://badges.pufler.dev/visits/Brandon12536/Brandon12536?style=for-the-badge&logo=github&color=000000&logoColor=white" />
-  <img src="https://badges.pufler.dev/repos/Brandon12536?style=for-the-badge&logo=github&color=000000&logoColor=white" />
-  <img src="https://badges.pufler.dev/commits/Brandon12536/Brandon12536?style=for-the-badge&logo=github&color=000000&logoColor=white" />
 </p>
 
 <p align="center">
