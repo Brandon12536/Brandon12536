@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 -->
 
 <p align="center">
-  <img src="img/bg.jpg" alt="Background Image" style="width: 100%; height: 300px; border-radius: 15px;" />
+  <img src="img/bg.jpg" alt="Background Image" style="max-width: 100%; height: auto; border-radius: 15px;" />
 </p>
 
 <p align="center">
