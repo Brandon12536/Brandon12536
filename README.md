@@ -32,8 +32,8 @@ Here are some ideas to get you started:
 </p>
 
 ![Profile views](https://komarev.com/ghpvc/?username=Brandon12536&style=for-the-badge)
-![GitLab](https://img.shields.io/badge/gitlab-181717?style=for-the-badge&logo=gitlab&logoColor=white)
-![TikTok](https://img.shields.io/badge/tiktok-000000?style=for-the-badge&logo=tiktok&logoColor=white)
+[![GitLab](https://img.shields.io/badge/gitlab-181717?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/Brandon12536)
+[![TikTok](https://img.shields.io/badge/tiktok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://tiktok.com/@brandonperez7755)
 
 ---
 
