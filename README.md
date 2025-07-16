@@ -396,7 +396,7 @@ Soy un ingeniero DevOps con pasión por la inteligencia artificial, la automatiz
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Brandon12536&layout=compact&theme=tokyonight)
 
 <td valign="top" width="40%">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Brandon12536&bg_color=0d1117&color=00ffee&line=00ffee&point=ffffff&area=true&hide_border=true" width="100%" alt="activity graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Brandon12536&bg_color=1f2327&color=47a6ff&line=47a6ff&point=ffffff&area=true&hide_border=true" width="100%" alt="activity graph" />
 </td>
 
 
