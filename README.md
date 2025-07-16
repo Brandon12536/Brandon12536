@@ -25,26 +25,23 @@ Here are some ideas to get you started:
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=%F0%9F%91%8B+Hola%2C+soy+Brandon!;DevOps+Engineer+%F0%9F%9A%80;Amante+de+la+automatizaci%C3%B3n+%26+la+IA;Cloud%2C+CI%2FCD%2C+Docker%2C+Kubernetes+%E2%9C%A8" alt="Typing SVG" />
 </p>
 
-<p align="center">
-  <img src="https://badges.pufler.dev/visits/Brandon12536/Brandon12536?style=for-the-badge&logo=github&color=000000&logoColor=white" />
-  <img src="https://badges.pufler.dev/repos/Brandon12536?style=for-the-badge&logo=github&color=000000&logoColor=white" />
-  <img src="https://badges.pufler.dev/commits/Brandon12536/Brandon12536?style=for-the-badge&logo=github&color=000000&logoColor=white" />
-</p>
+
 
 <p align="center">
   DevOps Engineer | Apasionado por la IA, el diseño y la tecnología 🚀
 </p>
 
 <p align="center">
-  <a href="https://gitlab.com/Brandon12536" target="_blank">
-    <img src="https://img.shields.io/badge/gitlab-181717?style=for-the-badge&logo=gitlab&logoColor=white" />
-  </a>
-  <a href="https://tiktok.com/@brandonperez7755" target="_blank">
-    <img src="https://img.shields.io/badge/tiktok-000000?style=for-the-badge&logo=tiktok&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/brandon-perez-reyes-667634264/" target="_blank">
-    <img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=Brandon12536&style=for-the-badge" />
+  <img src="https://badges.pufler.dev/visits/Brandon12536/Brandon12536?style=for-the-badge&logo=github&color=000000&logoColor=white" />
+  <img src="https://badges.pufler.dev/repos/Brandon12536?style=for-the-badge&logo=github&color=000000&logoColor=white" />
+  <img src="https://badges.pufler.dev/commits/Brandon12536/Brandon12536?style=for-the-badge&logo=github&color=000000&logoColor=white" />
+</p>
+
+<p align="center">
+  [![GitLab](https://img.shields.io/badge/gitlab-181717?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/Brandon12536)
+  [![TikTok](https://img.shields.io/badge/tiktok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://tiktok.com/@brandonperez7755)
+  [![LinkedIn](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brandon-perez-reyes-667634264/)
 </p>
 
 ---
@@ -75,38 +72,9 @@ Here are some ideas to get you started:
 
 ## 🚀 Featured Projects
 
-<div align="center">
-  <table style="border-collapse: collapse; width: 100%;">
-    <thead>
-      <tr>
-        <th style="border: none; padding: 8px; text-align: left; font-size: 16px; font-weight: bold;">
-          Proyecto
-        </th>
-        <th style="border: none; padding: 8px; text-align: left; font-size: 16px; font-weight: bold;">
-          Descripción
-        </th>
-        <th style="border: none; padding: 8px; text-align: left; font-size: 16px; font-weight: bold;">
-          Tecnologías
-        </th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td style="border: none; padding: 8px;">
-          <a href="https://maybetours.com/" target="_blank">
-            🌐 Maybetours
-          </a>
-        </td>
-        <td style="border: none; padding: 8px;">
-          Aplicación web de reservación de viajes
-        </td>
-        <td style="border: none; padding: 8px;">
-          PHP, Stripe, Bootstrap5, Material Design Bootstrap, CSS3, HTML5
-        </td>
-      </tr>
-    </tbody>
-  </table>
-</div>
+| Proyecto | Descripción | Tecnologías |
+|---------|-------------|-------------|
+| [🌐 Maybetours](https://maybetours.com/) | Aplicación web de reservación de viajes |PHP, Stripe, Bootstrap5, Material Design Bootstrap, CSS3, HTML5 |
 
 ---
 
