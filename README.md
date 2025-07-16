@@ -45,11 +45,9 @@ Here are some ideas to get you started:
   <a href="https://www.linkedin.com/in/brandon-perez-reyes-667634264/" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <li style="display: inline-block; margin-right: 0.25rem;">
-    <a href="https://coff.ee/brandonperezr" target="_blank">
-      <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/>
-    </a>
-  </li>
+  <a href="https://coff.ee/brandonperezr" target="_blank">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/>
+  </a>
 </p>
 
 
