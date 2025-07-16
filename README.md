@@ -53,27 +53,23 @@ Here are some ideas to get you started:
 
 ---
 
+---
+
 ## 🧑‍💻 About Me
 
-<table>
-  <tr>
-    <td valign="top" width="60%">
-      <p align="left">
-        <img src="https://github-readme-stats.vercel.app/api?username=Brandon12536&show_icons=true&theme=github_dark&hide_border=true" align="right" />
-        
-        Soy un ingeniero DevOps con pasión por la inteligencia artificial, la automatización y el diseño de interfaces. Me encanta combinar creatividad y tecnología para resolver problemas reales.
-      </p>
-      
-      <p align="left">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brandon12536&layout=compact&theme=github_dark&hide_border=true" align="right" />
-        
-        - 🧠 Siempre aprendiendo cosas nuevas  
-        - 🎯 Amante de los retos técnicos  
-        - 💡 Interesado en soluciones reales con IA  
-      </p>
-    </td>
-  </tr>
-</table>
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Brandon12536&show_icons=true&theme=github_dark&hide_border=true" align="right" />
+  
+  Soy un ingeniero DevOps con pasión por la inteligencia artificial, la automatización y el diseño de interfaces. Me encanta combinar creatividad y tecnología para resolver problemas reales.
+</p>
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brandon12536&layout=compact&theme=github_dark&hide_border=true" align="right" />
+  
+  - 🧠 Siempre aprendiendo cosas nuevas
+  - 🎯 Amante de los retos técnicos
+  - 💡 Interesado en soluciones reales con IA
+</p>
 
 ---
 
@@ -124,34 +120,20 @@ Here are some ideas to get you started:
 
 ## ⚙️ Technology Ecosystem
 
-<div align="center">
-  <table>
-    <tr>
-      <td>
-        <img src="https://img.shields.io/badge/php-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-        <img src="https://img.shields.io/badge/streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
-        <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/couchdb-E42528?style=for-the-badge&logo=apachecouchdb&logoColor=white" />
-      </td>
-      <td>
-        <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-        <img src="https://img.shields.io/badge/postgresql-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-        <img src="https://img.shields.io/badge/react-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-        <img src="https://img.shields.io/badge/astro-1a1a1a?style=for-the-badge&logo=astro&logoColor=white" />
-      </td>
-      <td>
-        <img src="https://img.shields.io/badge/Atropos.js-00B0FF?style=for-the-badge&logo=atropos&logoColor=white" />
-        <img src="https://img.shields.io/badge/tailwindcss-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
-        <img src="https://img.shields.io/badge/pico.css-2D9CDB?style=for-the-badge&logo=pico&logoColor=white" />
-        <img src="https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
-      </td>
-      <td>
-        <img src="https://img.shields.io/badge/material--design--bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
-        <img src="https://img.shields.io/badge/material--ui-007FFF?style=for-the-badge&logo=mui&logoColor=white" />
-      </td>
-    </tr>
-  </table>
-</div>
+![PHP](https://img.shields.io/badge/php-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Streamlit](https://img.shields.io/badge/streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![CouchDB](https://img.shields.io/badge/couchdb-E42528?style=for-the-badge&logo=apachecouchdb&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/postgresql-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![React](https://img.shields.io/badge/react-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Astro](https://img.shields.io/badge/astro-1a1a1a?style=for-the-badge&logo=astro&logoColor=white)
+![Atropos.js](https://img.shields.io/badge/Atropos.js-00B0FF?style=for-the-badge&logo=atropos&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/tailwindcss-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![PicoCSS](https://img.shields.io/badge/pico.css-2D9CDB?style=for-the-badge&logo=pico&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Material Design Bootstrap](https://img.shields.io/badge/material--design--bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Material UI](https://img.shields.io/badge/material--ui-007FFF?style=for-the-badge&logo=mui&logoColor=white)
 
 ---
 
