@@ -416,7 +416,7 @@ Here are some ideas to get you started:
         <img src="https://github-readme-activity-graph.vercel.app/graph?username=Brandon12536&bg_color=000000&color=4078c0&line=4078c0&point=ffffff&area=true&hide_border=true" />
       </td>
       <td align="center">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Brandon12536&theme=tokyonight&utcOffset=-6" />
+        <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Brandon12536&layout=compact&theme=tokyonight" alt="Weekly Coding Activity" />
       </td>
     </tr>
     <tr>
