@@ -46,7 +46,7 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://coff.ee/brandonperezr" target="_blank">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/>
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150" height="28" style="height: 28px;"/>
   </a>
 </p>
 
