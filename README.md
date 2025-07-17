@@ -405,28 +405,15 @@ Here are some ideas to get you started:
   <table style="width: 100%;">
     <tr>
       <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=Brandon12536&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+        <img src="https://github-readme-stats.vercel.app/api?username=Brandon12536&show_icons=true&theme=tokyonight" />
       </td>
-      <td align="center">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Brandon12536&theme=tokyonight" />
-      </td>
-    </tr>
-    <tr>
       <td align="center">
         <img src="https://github-readme-activity-graph.vercel.app/graph?username=Brandon12536&bg_color=000000&color=4078c0&line=4078c0&point=ffffff&area=true&hide_border=true" />
       </td>
-      <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Brandon12536&layout=compact&theme=tokyonight" alt="Weekly Coding Activity" />
-      </td>
     </tr>
     <tr>
       <td colspan="2" align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brandon12536&layout=compact&theme=tokyonight&hide=html,css,scss,less,javascript,typescript" />
-      </td>
-    </tr>
-    <tr>
-      <td colspan="2" align="center">
-        <img src="https://github-profile-trophy.vercel.app/?username=Brandon12536&theme=tokyonight&row=2&column=4&no-frame=true" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brandon12536&layout=compact&theme=tokyonight" />
       </td>
     </tr>
   </table>
