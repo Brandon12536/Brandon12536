@@ -402,6 +402,8 @@ Here are some ideas to get you started:
 ## 📊 GitHub Stats
 
 <div align="center">
+  <h2>📊 Estadísticas de GitHub</h2>
+  
   <table style="width: 100%;">
     <tr>
       <td align="center">
@@ -411,12 +413,53 @@ Here are some ideas to get you started:
         <img src="https://github-readme-activity-graph.vercel.app/graph?username=Brandon12536&bg_color=000000&color=4078c0&line=4078c0&point=ffffff&area=true&hide_border=true" />
       </td>
     </tr>
+    
+    <tr>
+      <td align="center">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brandon12536&layout=compact&theme=tokyonight" />
+      </td>
+      <td align="center">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Brandon12536&theme=tokyonight" alt="Racha de contribuciones" />
+      </td>
+    </tr>
+    
+    <tr>
+      <td align="center">
+        <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Brandon12536&layout=compact&theme=tokyonight" alt="Tiempo de codificación" />
+      </td>
+      <td align="center">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Brandon12536&theme=tokyonight&utcOffset=-6" alt="Horas productivas" />
+      </td>
+    </tr>
+    
+    <tr>
+      <td align="center">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Brandon12536&theme=tokyonight" alt="Repos por lenguaje" />
+      </td>
+      <td align="center">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Brandon12536&theme=tokyonight" alt="Lenguajes con más commits" />
+      </td>
+    </tr>
+    
     <tr>
       <td colspan="2" align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brandon12536&layout=compact&theme=tokyonight" />
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Brandon12536&theme=tokyonight" alt="Detalles del perfil" />
+      </td>
+    </tr>
+    
+    <tr>
+      <td colspan="2" align="center">
+        <img src="https://activity-graph.herokuapp.com/graph?username=Brandon12536&theme=react-dark&bg_color=1a1b27&color=70a5fd&line=70a5fd&point=38bdae" alt="Gráfico de contribuciones anual" />
       </td>
     </tr>
   </table>
+  
+  <div style="margin-top: 20px;">
+    <img src="https://komarev.com/ghpvc/?username=Brandon12536&style=flat-square&color=blue" alt="Perfil visto" />
+    <img src="https://img.shields.io/github/followers/Brandon12536?label=Seguidores&style=social" alt="Seguidores" />
+    <img src="https://img.shields.io/github/stars/Brandon12536?affiliations=OWNER&label=Estrellas%20en%20repositorios" alt="Estrellas" />
+    <img src="https://img.shields.io/github/commit-activity/m/Brandon12536/Brandon12536" alt="Frecuencia de commits" />
+  </div>
 </div>
 
 ## 📫 Contact
