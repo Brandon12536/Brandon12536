@@ -17,52 +17,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<style>
-  @keyframes fadeIn {
-    from { opacity: 0; transform: translateY(20px); }
-    to { opacity: 1; transform: translateY(0); }
-  }
-  .animate-fade-in {
-    animation: fadeIn 1s ease-out forwards;
-  }
-  .skill-badge {
-    transition: transform 0.3s ease, box-shadow 0.3s ease;
-    display: inline-block;
-    margin: 5px;
-  }
-  .skill-badge:hover {
-    transform: translateY(-5px);
-    box-shadow: 0 10px 20px rgba(0,0,0,0.1);
-  }
-  .section {
-    opacity: 0;
-    animation: fadeIn 0.6s ease-out forwards;
-  }
-  .section:nth-child(1) { animation-delay: 0.2s; }
-  .section:nth-child(2) { animation-delay: 0.4s; }
-  .section:nth-child(3) { animation-delay: 0.6s; }
-  .stats-container {
-    position: relative;
-    overflow: hidden;
-  }
-  .stats-container::after {
-    content: '';
-    position: absolute;
-    top: 0;
-    left: 0;
-    right: 0;
-    height: 100%;
-    background: linear-gradient(90deg, transparent, rgba(255,255,255,0.1), transparent);
-    transform: translateX(-100%);
-    animation: shimmer 2s infinite;
-  }
-  @keyframes shimmer {
-    100% { transform: translateX(100%); }
-  }
-</style>
-
-<p align="center" class="animate-fade-in">
-  <img src="img/bg.jpg" alt="Background Image" style="max-width: 100%; height: auto; border-radius: 15px; box-shadow: 0 10px 30px rgba(0,0,0,0.2); transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.02)'" onmouseout="this.style.transform='scale(1)'" />
+<p align="center">
+  <img src="img/bg.jpg" alt="Background Image" style="max-width: 100%; height: auto; border-radius: 15px;" />
 </p>
 
 <p align="center">
@@ -106,18 +62,14 @@ Here are some ideas to get you started:
 
 ## 🧑‍💻 About Me
 
-<p align="left" class="section">
-  <div class="stats-container" style="display: inline-block;">
-    <img src="https://github-readme-stats.vercel.app/api?username=Brandon12536&show_icons=true&theme=github_dark&hide_border=true" align="right" style="border-radius: 10px;" />
-  </div>
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Brandon12536&show_icons=true&theme=github_dark&hide_border=true" align="right" />
   
   Soy un ingeniero DevOps con pasión por la inteligencia artificial, la automatización y el diseño de interfaces. Me encanta combinar creatividad y tecnología para resolver problemas reales.
 </p>
 
-<p align="left" class="section" style="margin-top: 20px;">
-  <div class="stats-container" style="display: inline-block;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brandon12536&layout=compact&theme=github_dark&hide_border=true" align="right" style="border-radius: 10px;" />
-  </div>
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brandon12536&layout=compact&theme=github_dark&hide_border=true" align="right" />
   
   - 🧠 Siempre aprendiendo cosas nuevas
   - 🎯 Amante de los retos técnicos
@@ -136,28 +88,8 @@ Here are some ideas to get you started:
 
 ## 🧠 Skills & Tools:
 
-<div align="center" class="section">
-  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
-    <span class="skill-badge"><img src="https://skillicons.dev/icons?i=js" alt="JavaScript" title="JavaScript" style="width: 50px; height: 50px; transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'"/></span>
-    <span class="skill-badge"><img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" title="TypeScript" style="width: 50px; height: 50px; transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'"/></span>
-    <span class="skill-badge"><img src="https://skillicons.dev/icons?i=react" alt="React" title="React" style="width: 50px; height: 50px; transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'"/></span>
-    <span class="skill-badge"><img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" title="Next.js" style="width: 50px; height: 50px; transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'"/></span>
-    <span class="skill-badge"><img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" title="Node.js" style="width: 50px; height: 50px; transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'"/></span>
-    <span class="skill-badge"><img src="https://skillicons.dev/icons?i=nestjs" alt="NestJS" title="NestJS" style="width: 50px; height: 50px; transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'"/></span>
-    <span class="skill-badge"><img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" title="Tailwind CSS" style="width: 50px; height: 50px; transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'"/></span>
-    <span class="skill-badge"><img src="https://skillicons.dev/icons?i=supabase" alt="Supabase" title="Supabase" style="width: 50px; height: 50px; transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'"/></span>
-    <span class="skill-badge"><img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" title="PostgreSQL" style="width: 50px; height: 50px; transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'"/></span>
-    <span class="skill-badge"><img src="https://skillicons.dev/icons?i=vercel" alt="Vercel" title="Vercel" style="width: 50px; height: 50px; transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'"/></span>
-    <span class="skill-badge"><img src="https://skillicons.dev/icons?i=figma" alt="Figma" title="Figma" style="width: 50px; height: 50px; transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'"/></span>
-    <span class="skill-badge"><img src="https://skillicons.dev/icons?i=git" alt="Git" title="Git" style="width: 50px; height: 50px; transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'"/></span>
-    <span class="skill-badge"><img src="https://skillicons.dev/icons?i=github" alt="GitHub" title="GitHub" style="width: 50px; height: 50px; transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'"/></span>
-    <span class="skill-badge"><img src="https://skillicons.dev/icons?i=prisma" alt="Prisma" title="Prisma" style="width: 50px; height: 50px; transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'"/></span>
-    <span class="skill-badge"><img src="https://skillicons.dev/icons?i=docker" alt="Docker" title="Docker" style="width: 50px; height: 50px; transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'"/></span>
-    <span class="skill-badge"><img src="https://skillicons.dev/icons?i=linux" alt="Linux" title="Linux" style="width: 50px; height: 50px; transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'"/></span>
-    <span class="skill-badge"><img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" title="VS Code" style="width: 50px; height: 50px; transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'"/></span>
-    <span class="skill-badge"><img src="https://skillicons.dev/icons?i=astro" alt="Astro" title="Astro" style="width: 50px; height: 50px; transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'"/></span>
-    <span class="skill-badge"><img src="https://skillicons.dev/icons?i=bash" alt="Bash" title="Bash" style="width: 50px; height: 50px; transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'"/></span>
-  </div>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,nestjs,tailwind,supabase,postgres,vercel,figma,git,github,prisma,docker,linux,vscode,astro,bash" />
 </div>
 
 
