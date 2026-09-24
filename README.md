@@ -28,7 +28,7 @@
   [![TikTok](https://img.shields.io/badge/TikTok-0d1117?style=for-the-badge&logo=tiktok&logoColor=white)](https://tiktok.com/@brandondevoficial)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brandon-perez-reyes-667634264/)
   [![Docker Hub](https://img.shields.io/badge/Docker%20Hub-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://hub.docker.com/u/brandonperezr)
-  [![Buy me a coffee](https://img.shields.io/badge/Cómprame%20un%20café-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black)](https://coff.ee/brandonperezr)
+  <!-- [![Buy me a coffee](https://img.shields.io/badge/Cómprame%20un%20café-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black)](https://coff.ee/brandonperezr) -->
 
 </div>
 
