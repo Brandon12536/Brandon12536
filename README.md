@@ -19,7 +19,14 @@ Here are some ideas to get you started:
 
 <p align="center">
   <a href="https://github.com/Brandon12536">
-    <img src="img/background.png" alt="Background Image" width="800" style="border-radius: 50px;" />
+    <svg width="800" viewBox="0 0 800 300" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+      <defs>
+        <clipPath id="rounded">
+          <rect width="800" height="300" rx="50" ry="50"/>
+        </clipPath>
+      </defs>
+      <image href="img/background.png" width="800" height="300" clip-path="url(#rounded)"/>
+    </svg>
   </a>
 </p>
 
@@ -403,9 +410,17 @@ Here are some ideas to get you started:
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Brandon12536)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Brandon12536&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="GitHub Stats" />
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Brandon12536)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brandon12536&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Brandon12536&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
+</p>
 
 ## 📫 Contact
 
