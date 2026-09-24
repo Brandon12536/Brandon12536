@@ -1,0 +1,136 @@
+name: 📝 Actualizar últimos commits
+
+on:
+  schedule:
+    # Se ejecuta todos los días a las 06:00 UTC (01:00 hora México)
+    - cron: "0 6 * * *"
+  workflow_dispatch: # Permite ejecutarlo manualmente desde GitHub
+
+jobs:
+  update-readme:
+    name: Actualizar README con commits recientes
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: 📥 Clonar repositorio
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: 🔍 Obtener últimos commits de todos los repos
+        id: commits
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: Brandon12536
+        run: |
+          echo "Obteniendo commits recientes..."
+
+          # Usar la API de GitHub para obtener eventos de push recientes
+          EVENTS=$(curl -s \
+            -H "Authorization: Bearer $GH_TOKEN" \
+            -H "Accept: application/vnd.github+json" \
+            "https://api.github.com/users/$USERNAME/events/public?per_page=30")
+
+          # Filtrar solo eventos PushEvent y extraer commits
+          COMMITS=$(echo "$EVENTS" | python3 -c "
+          import json, sys
+          from datetime import datetime, timezone
+
+          events = json.load(sys.stdin)
+          commits = []
+          seen = set()
+
+          for event in events:
+              if event.get('type') != 'PushEvent':
+                  continue
+              repo = event.get('repo', {}).get('name', '')
+              payload = event.get('payload', {})
+              for commit in payload.get('commits', []):
+                  sha = commit.get('sha', '')[:7]
+                  msg = commit.get('message', '').split('\n')[0][:60]
+                  key = sha
+                  if key in seen:
+                      continue
+                  seen.add(key)
+                  # Parsear fecha del evento
+                  created = event.get('created_at', '')
+                  try:
+                      dt = datetime.strptime(created, '%Y-%m-%dT%H:%M:%SZ')
+                      fecha = dt.strftime('%d/%m/%Y')
+                  except:
+                      fecha = created[:10]
+                  url = f'https://github.com/{repo}/commit/{commit.get(\"sha\",\"\")}' 
+                  commits.append((fecha, repo.split('/')[-1], sha, msg, url))
+                  if len(commits) >= 7:
+                      break
+              if len(commits) >= 7:
+                  break
+
+          # Generar tabla markdown
+          if commits:
+              print('| Fecha | Repositorio | Commit | Mensaje |')
+              print('|-------|-------------|--------|---------|')
+              for fecha, repo, sha, msg, url in commits:
+                  print(f'| {fecha} | {repo} | [\`{sha}\`]({url}) | {msg} |')
+          else:
+              print('> Sin actividad pública reciente.')
+          ")
+
+          # Guardar en variable de entorno multi-línea
+          {
+            echo "TABLE<<EOF"
+            echo "$COMMITS"
+            echo "EOF"
+          } >> "$GITHUB_OUTPUT"
+
+      - name: ✏️ Actualizar sección de commits en README
+        run: |
+          TABLE="${{ steps.commits.outputs.TABLE }}"
+          FECHA=$(date +'%d/%m/%Y %H:%M UTC')
+
+          # Construir bloque nuevo
+          NEW_BLOCK="<!-- COMMITS:START -->
+          > 🔄 Actualizado automáticamente el **${FECHA}**
+
+          ${TABLE}
+          <!-- COMMITS:END -->"
+
+          # Reemplazar sección entre marcadores usando Python
+          python3 -c "
+          import re, sys
+
+          with open('README.md', 'r', encoding='utf-8') as f:
+              content = f.read()
+
+          new_section = '''<!-- COMMITS:START -->
+          > 🔄 Actualizado automáticamente el **${FECHA}**
+
+          ${TABLE}
+          <!-- COMMITS:END -->'''
+
+          updated = re.sub(
+              r'<!-- COMMITS:START -->.*?<!-- COMMITS:END -->',
+              new_section,
+              content,
+              flags=re.DOTALL
+          )
+
+          with open('README.md', 'w', encoding='utf-8') as f:
+              f.write(updated)
+
+          print('README actualizado correctamente.')
+          "
+
+      - name: 📤 Hacer commit y push si hay cambios
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action Bot"
+          git add README.md
+          if git diff --staged --quiet; then
+            echo "Sin cambios que commitear."
+          else
+            git commit -m "🤖 bot: actualizar últimos commits $(date +'%d/%m/%Y')"
+            git push
+          fi
