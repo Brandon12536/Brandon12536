@@ -1,40 +1,24 @@
-<!-- ## Hi there 👋
+<!-- ## Hola 👋
 
-
-**Brandon12536/Brandon12536** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
----
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+**Brandon12536/Brandon12536** es un repositorio ✨ _especial_ ✨ porque su `README.md` aparece en tu perfil de GitHub.
 -->
 
 <p align="center">
   <a href="https://github.com/Brandon12536">
-    <img src="img/background_rounded.png" alt="Background Image" width="800" />
+    <img src="img/background_rounded.png" alt="Banner de perfil" width="800" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=%F0%9F%91%8B+Hola%2C+soy+Brandon!;DevOps+Engineer+%F0%9F%9A%80;Amante+de+la+automatizaci%C3%B3n+%26+la+IA;Cloud%2C+CI%2FCD%2C+Docker%2C+Kubernetes+%E2%9C%A8" alt="Typing SVG" />
-</p>
-
-
-
-<p align="center">
-  DevOps Engineer | Apasionado por la IA, el diseño y la tecnología 🚀
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=%F0%9F%91%8B+Hola%2C+soy+Brandon!;Ingeniero+DevOps+%F0%9F%9A%80;Amante+de+la+automatizaci%C3%B3n+%26+la+IA;Cloud%2C+CI%2FCD%2C+Docker%2C+Kubernetes+%E2%9C%A8" alt="Texto animado" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Brandon12536&style=for-the-badge" />
+  Ingeniero DevOps | Apasionado por la IA, el diseño y la tecnología 🚀
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Brandon12536&style=for-the-badge&label=Visitas+al+perfil" />
 </p>
 
 <p align="center">
@@ -55,17 +39,13 @@ Here are some ideas to get you started:
   </a>
 </p>
 
-
-
 ---
 
 > 🚀 **Construyendo hoy lo que otros imaginarán mañana.**
 
 ---
 
----
-
-## 🧑‍💻 About Me
+## 🧑‍💻 Sobre mí
 
 Soy un ingeniero DevOps con pasión por la inteligencia artificial, la automatización y el diseño de interfaces. Me encanta combinar creatividad y tecnología para resolver problemas reales.
 
@@ -75,7 +55,7 @@ Soy un ingeniero DevOps con pasión por la inteligencia artificial, la automatiz
 
 ---
 
-## Docker Hub
+## 🐳 Docker Hub
 
 <div align="center">
 
@@ -83,32 +63,32 @@ Soy un ingeniero DevOps con pasión por la inteligencia artificial, la automatiz
 
 </div>
 
-| Imagen | Descripción | Pulls |
-|--------|-------------|-------|
-| [🛒 ideal-store-gen](https://hub.docker.com/r/brandonperezr/ideal-store-gen) | Generador de tienda ideal | ![Pulls](https://img.shields.io/docker/pulls/brandonperezr/ideal-store-gen?style=flat-square&logo=docker&color=2496ED) |
-| [🏪 ideal-store](https://hub.docker.com/r/brandonperezr/ideal-store) | Aplicación de tienda ideal | ![Pulls](https://img.shields.io/docker/pulls/brandonperezr/ideal-store?style=flat-square&logo=docker&color=2496ED) |
-| [🏠 house](https://hub.docker.com/r/brandonperezr/house) | Proyecto de gestión de casa | ![Pulls](https://img.shields.io/docker/pulls/brandonperezr/house?style=flat-square&logo=docker&color=2496ED) |
-| [☕ coffee](https://hub.docker.com/r/brandonperezr/coffee) | Aplicación de cafetería | ![Pulls](https://img.shields.io/docker/pulls/brandonperezr/coffee?style=flat-square&logo=docker&color=2496ED) |
+| Imagen | Descripción | Descargas |
+|--------|-------------|-----------|
+| [🛒 ideal-store-gen](https://hub.docker.com/r/brandonperezr/ideal-store-gen) | Generador de tienda ideal | ![Descargas](https://img.shields.io/docker/pulls/brandonperezr/ideal-store-gen?style=flat-square&logo=docker&color=2496ED) |
+| [🏪 ideal-store](https://hub.docker.com/r/brandonperezr/ideal-store) | Aplicación de tienda ideal | ![Descargas](https://img.shields.io/docker/pulls/brandonperezr/ideal-store?style=flat-square&logo=docker&color=2496ED) |
+| [🏠 house](https://hub.docker.com/r/brandonperezr/house) | Proyecto de gestión de casa | ![Descargas](https://img.shields.io/docker/pulls/brandonperezr/house?style=flat-square&logo=docker&color=2496ED) |
+| [☕ coffee](https://hub.docker.com/r/brandonperezr/coffee) | Aplicación de cafetería | ![Descargas](https://img.shields.io/docker/pulls/brandonperezr/coffee?style=flat-square&logo=docker&color=2496ED) |
 
 ---
 
-##  Featured Projects
+## 🚀 Proyectos destacados
 
 | Proyecto | Descripción | Tecnologías |
 |---------|-------------|-------------|
-| [🌐 Maybetours](https://maybetours.com/) | Aplicación web de reservación de viajes |PHP, Stripe, Bootstrap5, Material Design Bootstrap, CSS3, HTML5 |
+| [🌐 Maybetours](https://maybetours.com/) | Aplicación web de reservación de viajes | PHP, Stripe, Bootstrap5, Material Design Bootstrap, CSS3, HTML5 |
 
 ---
 
-## 🧠 Skills & Tools:
+## 🧠 Habilidades y herramientas
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,nestjs,tailwind,supabase,postgres,vercel,figma,git,github,prisma,docker,linux,vscode,astro,bash" />
 </div>
 
+---
 
-
-## ⚙️ Technology Ecosystem
+## ⚙️ Ecosistema tecnológico
 
 ![PHP](https://img.shields.io/badge/php-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
@@ -127,20 +107,19 @@ Soy un ingeniero DevOps con pasión por la inteligencia artificial, la automatiz
 
 ---
 
-## 🔌 Electronics Technologies
+## 🔌 Tecnologías electrónicas
 
 ![MicroPython](https://img.shields.io/badge/micropython-2C3E50?style=for-the-badge&logo=micropython&logoColor=white)
 ![Arduino](https://img.shields.io/badge/arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 
-## 🎨 Design Tools
-
+## 🎨 Herramientas de diseño
 
 ![Balsamiq](https://img.shields.io/badge/balsamiq-800000?style=for-the-badge&logo=balsamiq&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Adobe XD](https://img.shields.io/badge/adobe%20xd-FF61F6?style=for-the-badge&logo=adobexd&logoColor=white)
 ![Whimsical](https://img.shields.io/badge/whimsical-5A28C4?style=for-the-badge&logo=whimsical&logoColor=white)
 
-## 📱 Mobile Development
+## 📱 Desarrollo móvil
 
 ![Flutter](https://img.shields.io/badge/flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Ionic](https://img.shields.io/badge/ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white)
@@ -151,7 +130,7 @@ Soy un ingeniero DevOps con pasión por la inteligencia artificial, la automatiz
 ![Swift](https://img.shields.io/badge/swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
 ![Java](https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white)
 
-## 🖥️ Desktop Development
+## 🖥️ Desarrollo de escritorio
 
 ![Electron](https://img.shields.io/badge/electron-47848F?style=for-the-badge&logo=electron&logoColor=white)
 ![Tkinter](https://img.shields.io/badge/tkinter-FFB300?style=for-the-badge&logo=python&logoColor=white)
@@ -168,7 +147,9 @@ Soy un ingeniero DevOps con pasión por la inteligencia artificial, la automatiz
 ![Tauri](https://img.shields.io/badge/tauri-FFC131?style=for-the-badge&logo=tauri&logoColor=white)
 
 ---
-### ⚙️ Backend & Systems Programming
+
+### ⚙️ Programación de backend y sistemas
+
 ![Go](https://img.shields.io/badge/go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![Rust](https://img.shields.io/badge/rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -178,7 +159,7 @@ Soy un ingeniero DevOps con pasión por la inteligencia artificial, la automatiz
 
 ---
 
-## 🌐 Web Technologies
+## 🌐 Tecnologías web
 
 ![HTML5](https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -201,7 +182,6 @@ Soy un ingeniero DevOps con pasión por la inteligencia artificial, la automatiz
 ![Mocha](https://img.shields.io/badge/mocha-8D6748?style=for-the-badge&logo=mocha&logoColor=white)
 ![Cypress](https://img.shields.io/badge/cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
 ![Vite](https://img.shields.io/badge/vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![TypeScript](https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![PHP](https://img.shields.io/badge/php-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Ruby](https://img.shields.io/badge/ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
 ![Astro](https://img.shields.io/badge/Astro-FF5D01?style=for-the-badge&logo=astro&logoColor=white)
@@ -224,19 +204,19 @@ Soy un ingeniero DevOps con pasión por la inteligencia artificial, la automatiz
 ![Svelte](https://img.shields.io/badge/svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white)
 ![Flutter](https://img.shields.io/badge/flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
-### 🛠️ Build Tools & Task Runners
+### 🛠️ Herramientas de construcción y automatización
 
 ![Grunt](https://img.shields.io/badge/grunt-FBA919?style=for-the-badge&logo=grunt&logoColor=black)
 
-### ⚡ JavaScript Runtimes
+### ⚡ Entornos de ejecución JavaScript
 
 ![Bun.js](https://img.shields.io/badge/bun.js-000000?style=for-the-badge&logo=bun&logoColor=white)
 
-### 🗃️ ORMs & Database Tools
+### 🗃️ ORMs y herramientas de base de datos
 
 ![Prisma](https://img.shields.io/badge/prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
 
-## 🚀 Deployment & Cloud
+## 🚀 Despliegue y nube
 
 ![Netlify](https://img.shields.io/badge/netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 ![Vercel](https://img.shields.io/badge/vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
@@ -251,27 +231,29 @@ Soy un ingeniero DevOps con pasión por la inteligencia artificial, la automatiz
 
 ---
 
-## 🗃️ Repositories
+## 🗃️ Repositorios
 
 ![GitHub](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white)
 ![GitLab](https://img.shields.io/badge/gitlab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
 ![Bitbucket](https://img.shields.io/badge/bitbucket-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white)
 
 ---
-## 🔄 Version Control
+
+## 🔄 Control de versiones
 
 ![Git](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-## 🤖 AI & Data Tools
+## 🤖 IA y herramientas de datos
 
 ![ChatGPT](https://img.shields.io/badge/chatgpt-10a37f?style=for-the-badge&logo=openai&logoColor=white)
-![Ollama](https://img.shields.io/badge/ollama-000000?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSIjRkZGIiBoZWlnaHQ9IjE2IiB2aWV3Qm94PSIwIDAgMTYgMTYiIHdpZHRoPSIxNiIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48Y2lyY2xlIGN4PSI4IiBjeT0iOCIgcj0iOCIgc3R5bGU9ImZpbGw6IzAwMCIvPjwvc3ZnPg==)
+![Ollama](https://img.shields.io/badge/ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
 ![Windsurf](https://img.shields.io/badge/windsurf-1E90FF?style=for-the-badge&logo=azuredevops&logoColor=white)
 ![Cursor.ai](https://img.shields.io/badge/cursor.ai-000000?style=for-the-badge&logo=cursor&logoColor=white)
-![Lovable](https://img.shields.io/badge/lovable-FF69B4?style=for-the-badge&logo=love&logoColor=white)
+![Lovable](https://img.shields.io/badge/lovable-FF69B4?style=for-the-badge&logo=heart&logoColor=white)
 ![V0](https://img.shields.io/badge/v0-7C3AED?style=for-the-badge&logo=vercel&logoColor=white)
-![Bolt](https://img.shields.io/badge/bolt-FFD600?style=for-the-badge&logo=zap&logoColor=black)
+![Bolt](https://img.shields.io/badge/bolt-FFD600?style=for-the-badge&logo=lightning&logoColor=black)
 ![DeepSeek](https://img.shields.io/badge/deepseek-000000?style=for-the-badge&logo=deepin&logoColor=white)
+![Kiro](https://img.shields.io/badge/kiro-6C3483?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/tensorflow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![TensorFlow.js](https://img.shields.io/badge/tensorflow.js-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
@@ -279,20 +261,21 @@ Soy un ingeniero DevOps con pasión por la inteligencia artificial, la automatiz
 
 ---
 
-## 📝 Code Editors
+## 📝 Editores de código
 
 ![Visual Studio Code](https://img.shields.io/badge/vscode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Windsurf](https://img.shields.io/badge/windsurf-1E90FF?style=for-the-badge&logo=azuredevops&logoColor=white)
 ![Cursor.ai](https://img.shields.io/badge/cursor.ai-000000?style=for-the-badge&logo=cursor&logoColor=white)
 ![Trae.ai](https://img.shields.io/badge/trae.ai-00BFFF?style=for-the-badge&logo=traefikproxy&logoColor=white)
+![Kiro](https://img.shields.io/badge/kiro-6C3483?style=for-the-badge&logo=amazonaws&logoColor=white)
 
-## 🔌 API Tools
+## 🔌 Herramientas de API
 
 ![Postman](https://img.shields.io/badge/postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Thunder Client](https://img.shields.io/badge/thunder%20client-1A82E2?style=for-the-badge&logo=thunderclient&logoColor=white)
 ![Insomnia](https://img.shields.io/badge/insomnia-4000BF?style=for-the-badge&logo=insomnia&logoColor=white)
 
-## 📄 API Documentation Tools
+## 📄 Documentación de APIs
 
 ![Swagger](https://img.shields.io/badge/swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
 ![Redoc](https://img.shields.io/badge/redoc-EF233C?style=for-the-badge&logo=redoc&logoColor=white)
@@ -305,31 +288,30 @@ Soy un ingeniero DevOps con pasión por la inteligencia artificial, la automatiz
 ![DapperDox](https://img.shields.io/badge/dapperdox-1A1A1A?style=for-the-badge&logo=dapperdox&logoColor=white)
 ![Docusaurus](https://img.shields.io/badge/docusaurus-1A1A1A?style=for-the-badge&logo=docusaurus&logoColor=white)
 
+## 🌐 APIs públicas y de prueba
 
-## 🌐 Public & Mock APIs
-
-![FakeStoreAPI](https://img.shields.io/badge/fakestoreapi-FF6C37?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSIjRkZGIiBoZWlnaHQ9IjE2IiB2aWV3Qm94PSIwIDAgMTYgMTYiIHdpZHRoPSIxNiIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48Y2lyY2xlIGN4PSI4IiBjeT0iOCIgcj0iOCIgc3R5bGU9ImZpbGw6I0ZGNkMzNyIvPjwvc3ZnPg==&logoColor=white)
+![FakeStoreAPI](https://img.shields.io/badge/fakestoreapi-FF6C37?style=for-the-badge&logo=shopify&logoColor=white)
 ![PokeAPI](https://img.shields.io/badge/pokeapi-FFCB05?style=for-the-badge&logo=pokemon&logoColor=black)
 ![JSONPlaceholder](https://img.shields.io/badge/jsonplaceholder-4A90E2?style=for-the-badge&logo=json&logoColor=white)
-![ReqRes](https://img.shields.io/badge/reqres-3C3C3C?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSIjM0MzQzNDIiBoZWlnaHQ9IjE2IiB2aWV3Qm94PSIwIDAgMTYgMTYiIHdpZHRoPSIxNiIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48Y2lyY2xlIGN4PSI4IiBjeT0iOCIgcj0iOCIgc3R5bGU9ImZpbGw6IzNDM0MzQyIvPjwvc3ZnPg==&logoColor=white)
+![ReqRes](https://img.shields.io/badge/reqres-3C3C3C?style=for-the-badge&logo=fastapi&logoColor=white)
 ![OpenWeather](https://img.shields.io/badge/openweather-FFA500?style=for-the-badge&logo=openweathermap&logoColor=white)
-![TheDogAPI](https://img.shields.io/badge/thedogapi-FF9800?style=for-the-badge&logo=dog&logoColor=white)
-![TheCatAPI](https://img.shields.io/badge/thecatapi-607D8B?style=for-the-badge&logo=cat&logoColor=white)
+![TheDogAPI](https://img.shields.io/badge/thedogapi-FF9800?style=for-the-badge&logo=paw&logoColor=white)
+![TheCatAPI](https://img.shields.io/badge/thecatapi-607D8B?style=for-the-badge&logo=paw&logoColor=white)
 ![SpaceX API](https://img.shields.io/badge/spacex%20api-212121?style=for-the-badge&logo=spacex&logoColor=white)
-![GhibliAPI](https://img.shields.io/badge/ghibliapi-81C784?style=for-the-badge&logo=studio-ghibli&logoColor=white)
-![Breaking Bad API](https://img.shields.io/badge/breaking%20bad%20api-388E3C?style=for-the-badge&logo=breaking-bad&logoColor=white)
-![Rick and Morty API](https://img.shields.io/badge/rick%20and%20morty%20api-00BFFF?style=for-the-badge&logo=rickandmorty&logoColor=white)
-![Star Wars API](https://img.shields.io/badge/star%20wars%20api-FFE81F?style=for-the-badge&logo=star-wars&logoColor=black)
-![Public APIs](https://img.shields.io/badge/public%20apis-333333?style=for-the-badge&logo=api&logoColor=white)
-![MockAPI](https://img.shields.io/badge/mockapi-FF6C37?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSIjRkZGIiBoZWlnaHQ9IjE2IiB2aWV3Qm94PSIwIDAgMTYgMTYiIHdpZHRoPSIxNiIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48Y2lyY2xlIGN4PSI4IiBjeT0iOCIgcj0iOCIgc3R5bGU9ImZpbGw6I0ZGNkMzNyIvPjwvc3ZnPg==&logoColor=white)
+![GhibliAPI](https://img.shields.io/badge/ghibliapi-81C784?style=for-the-badge&logo=leaf&logoColor=white)
+![Breaking Bad API](https://img.shields.io/badge/breaking%20bad%20api-388E3C?style=for-the-badge&logo=chemist&logoColor=white)
+![Rick and Morty API](https://img.shields.io/badge/rick%20and%20morty%20api-00BFFF?style=for-the-badge&logo=portal&logoColor=white)
+![Star Wars API](https://img.shields.io/badge/star%20wars%20api-FFE81F?style=for-the-badge&logo=starwars&logoColor=black)
+![Public APIs](https://img.shields.io/badge/public%20apis-333333?style=for-the-badge&logo=swagger&logoColor=white)
+![MockAPI](https://img.shields.io/badge/mockapi-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-## 📊 Data Science & Machine Learning
+## 📊 Ciencia de datos e IA
 
 ![NumPy](https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/tensorflow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Keras](https://img.shields.io/badge/keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/pytorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
@@ -337,26 +319,24 @@ Soy un ingeniero DevOps con pasión por la inteligencia artificial, la automatiz
 ![Jupyter](https://img.shields.io/badge/jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Dask](https://img.shields.io/badge/dask-111111?style=for-the-badge&logo=dask&logoColor=white)
 
+---
 
+## 🗄️ Bases de datos
 
-
-## 🗄️ Databases
-
-### 🗄️ SQL Databases
+### 🗄️ Bases de datos SQL
 
 ![Supabase](https://img.shields.io/badge/supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/mariadb-003545?style=for-the-badge&logo=mariadb&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/sql%20server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 ![Oracle](https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![HeidiSQL](https://img.shields.io/badge/heidisql-4479A1?style=for-the-badge&logo=heidisql&logoColor=white)
+![HeidiSQL](https://img.shields.io/badge/heidisql-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MySQL Workbench](https://img.shields.io/badge/mysql%20workbench-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-### 🗂️ NoSQL Databases
+### 🗂️ Bases de datos NoSQL
 
 ![MongoDB](https://img.shields.io/badge/mongodb-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![CouchDB](https://img.shields.io/badge/couchdb-E42528?style=for-the-badge&logo=apachecouchdb&logoColor=white)
-![MockAPI](https://img.shields.io/badge/mockapi-FF6C37?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSIjRkZGIiBoZWlnaHQ9IjE2IiB2aWV3Qm94PSIwIDAgMTYgMTYiIHdpZHRoPSIxNiIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48Y2lyY2xlIGN4PSI4IiBjeT0iOCIgcj0iOCIgc3R5bGU9ImZpbGw6I0ZGNkMzNyIvPjwvc3ZnPg==&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white)
 ![Firestore](https://img.shields.io/badge/firestore-FFA000?style=for-the-badge&logo=googlecloud&logoColor=white)
 ![Redis](https://img.shields.io/badge/redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
@@ -365,82 +345,80 @@ Soy un ingeniero DevOps con pasión por la inteligencia artificial, la automatiz
 ![Neo4j](https://img.shields.io/badge/neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white)
 ![RethinkDB](https://img.shields.io/badge/rethinkdb-FF9800?style=for-the-badge&logo=rethinkdb&logoColor=white)
 ![ArangoDB](https://img.shields.io/badge/arangodb-DDE072?style=for-the-badge&logo=arangodb&logoColor=black)
-![PouchDB](https://img.shields.io/badge/pouchdb-4A90E2?style=for-the-badge&logo=pouchdb&logoColor=white)
-![LevelDB](https://img.shields.io/badge/leveldb-3C3C3C?style=for-the-badge&logo=leveldb&logoColor=white)
+![PouchDB](https://img.shields.io/badge/pouchdb-4A90E2?style=for-the-badge&logo=couchdb&logoColor=white)
+![LevelDB](https://img.shields.io/badge/leveldb-3C3C3C?style=for-the-badge&logo=google&logoColor=white)
 
-## ⚙️ CI/CD Platforms
+## ⚙️ Plataformas CI/CD
 
-![GitHub Actions](https://img.shields.io/badge/github%20actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/github%20actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![GitLab CI](https://img.shields.io/badge/gitlab%20ci-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-![Travis CI](https://img.shields.io/badge/travis%20ci-3EAAAF?style=for-the-badge&logo=travis&logoColor=white)
+![Travis CI](https://img.shields.io/badge/travis%20ci-3EAAAF?style=for-the-badge&logo=travisci&logoColor=white)
 ![CircleCI](https://img.shields.io/badge/circle%20ci-343434?style=for-the-badge&logo=circleci&logoColor=white)
 
-## 🐳 Container Tools
+## 🐳 Contenedores
 
 ![Docker](https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 
-## 🚀 Deployment
+## ☁️ Proveedores de nube
 
 ![AWS](https://img.shields.io/badge/aws-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/google%20cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Azure](https://img.shields.io/badge/azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/google%20cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Azure](https://img.shields.io/badge/azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
-## 🧪 Testing Tools
+## 🧪 Herramientas de pruebas
 
 ![Selenium](https://img.shields.io/badge/selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 ![Jest](https://img.shields.io/badge/jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
 ![Cypress](https://img.shields.io/badge/cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
 
-## 📊 Monitoring
+## 📊 Monitoreo
 
 ![Prometheus](https://img.shields.io/badge/prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
 ![Grafana](https://img.shields.io/badge/grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 
-## 🏗️ Infrastructure as Code
+## 🏗️ Infraestructura como código
 
 ![Terraform](https://img.shields.io/badge/terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
 ![Ansible](https://img.shields.io/badge/ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
 
-## 🔨 Build Tools
+## 🔨 Herramientas de compilación
 
-![Maven](https://img.shields.io/badge/maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)
+![Maven](https://img.shields.io/badge/maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
 ![Gradle](https://img.shields.io/badge/gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white)
 
+---
 
-## 🏅 Certifications
+## 🏅 Certificaciones
 
-- Introduction to Python by University of Michigan
+- Introducción a Python — Universidad de Michigan
 
-## 📊 GitHub Stats
+---
+
+## 📊 Estadísticas de GitHub
 
 <div align="center">
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Brandon12536&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brandon12536&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+  <img src="https://streak-stats.demolab.com/?user=Brandon12536&theme=tokyonight&hide_border=true&locale=es&date_format=d%2Fm%2FY" alt="Racha de contribuciones" />
 
 </div>
 
 <div align="center">
 
-  <img src="https://streak-stats.demolab.com/?user=Brandon12536&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&mode=weekly" alt="GitHub Streak" />
+  <img src="https://ghchart.rshah.org/5C6BC0/Brandon12536" alt="Gráfica de contribuciones" />
 
 </div>
 
-<div align="center">
+---
 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Brandon12536&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
-
-</div>
-
-## 📫 Contact
+## 📫 Contacto
 
 [![Gmail 1](https://img.shields.io/badge/gmail-ing.brandon.perez.r@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ing.brandon.perez.r@gmail.com)
 [![Gmail 2](https://img.shields.io/badge/gmail-brandonprbusiness@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:brandonprbusiness@gmail.com)
 
-## 🎵 Hobbies
+## 🎵 Pasatiempos
 
-- 🎧 Play music
-- 🎮 Play video games
-- ✈️ Travell
+- 🎧 Escuchar música
+- 🎮 Videojuegos
+- ✈️ Viajar
