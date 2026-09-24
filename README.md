@@ -401,9 +401,9 @@ Here are some ideas to get you started:
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://gh-stats.egoist.dev/?username=Brandon12536&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Brandon12536)
 
-![Top Languages](https://gh-stats.egoist.dev/?username=Brandon12536&theme=dark&format=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Brandon12536)
 
 ## 📫 Contact
 
