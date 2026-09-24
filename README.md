@@ -402,21 +402,8 @@ Here are some ideas to get you started:
 ## 📊 GitHub Stats
 
 <div align="center">
-  <table style="width: 100%;">
-    <tr>
-      <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=Brandon12536&show_icons=true&theme=tokyonight&hide_border=true&bg_color=000000&title_color=4078c0&text_color=ffffff&icon_color=4078c0" alt="GitHub Stats" />
-      </td>
-      <td align="center">
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=Brandon12536&bg_color=000000&color=4078c0&line=4078c0&point=ffffff&area=true&hide_border=true" alt="Activity Graph" />
-      </td>
-    </tr>
-    <tr>
-      <td colspan="2" align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brandon12536&layout=compact&theme=tokyonight&hide_border=true&bg_color=000000&title_color=4078c0&text_color=ffffff" alt="Top Languages" />
-      </td>
-    </tr>
-  </table>
+  <img src="https://github-readme-stats.vercel.app/api?username=Brandon12536&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brandon12536&layout=compact&theme=tokyonight" alt="Top Languages" />
 </div>
 
 ## 📫 Contact
