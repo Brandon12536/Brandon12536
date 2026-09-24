@@ -39,7 +39,7 @@ Here are some ideas to get you started:
   <a href="https://gitlab.com/Brandon12536" target="_blank">
     <img src="https://img.shields.io/badge/gitlab-181717?style=for-the-badge&logo=gitlab&logoColor=white" />
   </a>
-  <a href="https://tiktok.com/@brandonperez7755" target="_blank">
+  <a href="https://tiktok.com/@brandondevoficial" target="_blank">
     <img src="https://img.shields.io/badge/tiktok-000000?style=for-the-badge&logo=tiktok&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/brandon-perez-reyes-667634264/" target="_blank">
@@ -405,15 +405,15 @@ Here are some ideas to get you started:
   <table style="width: 100%;">
     <tr>
       <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=Brandon12536&show_icons=true&theme=tokyonight" />
+        <img src="https://github-readme-stats.vercel.app/api?username=Brandon12536&show_icons=true&theme=tokyonight&hide_border=true&bg_color=000000&title_color=4078c0&text_color=ffffff&icon_color=4078c0" alt="GitHub Stats" />
       </td>
       <td align="center">
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=Brandon12536&bg_color=000000&color=4078c0&line=4078c0&point=ffffff&area=true&hide_border=true" />
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=Brandon12536&bg_color=000000&color=4078c0&line=4078c0&point=ffffff&area=true&hide_border=true" alt="Activity Graph" />
       </td>
     </tr>
     <tr>
       <td colspan="2" align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brandon12536&layout=compact&theme=tokyonight" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brandon12536&layout=compact&theme=tokyonight&hide_border=true&bg_color=000000&title_color=4078c0&text_color=ffffff" alt="Top Languages" />
       </td>
     </tr>
   </table>
