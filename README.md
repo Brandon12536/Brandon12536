@@ -99,12 +99,14 @@
 ---
 
 ## 📝 Últimos commits
----
 
 <!-- COMMITS:START -->
 <!-- COMMITS:END -->
 
 ---
+
+## 🧠 Habilidades principales
+
 <div align="center">
 
 ### 🌐 Frontend & Estilos
