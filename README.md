@@ -47,6 +47,9 @@ Here are some ideas to get you started:
   <a href="https://www.linkedin.com/in/brandon-perez-reyes-667634264/" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+  <a href="https://hub.docker.com/u/brandonperezr" target="_blank">
+    <img src="https://img.shields.io/badge/docker%20hub-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  </a>
   <a href="https://coff.ee/brandonperezr" target="_blank">
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150" height="28" style="height: 28px;"/>
   </a>
@@ -72,7 +75,24 @@ Soy un ingeniero DevOps con pasión por la inteligencia artificial, la automatiz
 
 ---
 
-## 🚀 Featured Projects
+## Docker Hub
+
+<div align="center">
+
+[![Docker Hub](https://img.shields.io/badge/docker%20hub-brandonperezr-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://hub.docker.com/u/brandonperezr)
+
+</div>
+
+| Imagen | Descripción | Pulls |
+|--------|-------------|-------|
+| [🛒 ideal-store-gen](https://hub.docker.com/r/brandonperezr/ideal-store-gen) | Generador de tienda ideal | ![Pulls](https://img.shields.io/docker/pulls/brandonperezr/ideal-store-gen?style=flat-square&logo=docker&color=2496ED) |
+| [🏪 ideal-store](https://hub.docker.com/r/brandonperezr/ideal-store) | Aplicación de tienda ideal | ![Pulls](https://img.shields.io/docker/pulls/brandonperezr/ideal-store?style=flat-square&logo=docker&color=2496ED) |
+| [🏠 house](https://hub.docker.com/r/brandonperezr/house) | Proyecto de gestión de casa | ![Pulls](https://img.shields.io/docker/pulls/brandonperezr/house?style=flat-square&logo=docker&color=2496ED) |
+| [☕ coffee](https://hub.docker.com/r/brandonperezr/coffee) | Aplicación de cafetería | ![Pulls](https://img.shields.io/docker/pulls/brandonperezr/coffee?style=flat-square&logo=docker&color=2496ED) |
+
+---
+
+##  Featured Projects
 
 | Proyecto | Descripción | Tecnologías |
 |---------|-------------|-------------|
