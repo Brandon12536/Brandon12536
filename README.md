@@ -19,14 +19,7 @@ Here are some ideas to get you started:
 
 <p align="center">
   <a href="https://github.com/Brandon12536">
-    <svg width="800" viewBox="0 0 800 300" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-      <defs>
-        <clipPath id="rounded">
-          <rect width="800" height="300" rx="50" ry="50"/>
-        </clipPath>
-      </defs>
-      <image href="img/background.png" width="800" height="300" clip-path="url(#rounded)"/>
-    </svg>
+    <img src="img/background_rounded.png" alt="Background Image" width="800" />
   </a>
 </p>
 
