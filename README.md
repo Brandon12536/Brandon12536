@@ -8,8 +8,6 @@
   </a>
 </p>
 
-
-
 <!-- Métricas rápidas -->
 <div align="center">
 
@@ -61,7 +59,7 @@
 
 [![Commits](https://img.shields.io/github/commit-activity/t/Brandon12536/Brandon12536?label=Commits+en+perfil&style=flat-square&color=1a4a8a&logo=github)](https://github.com/Brandon12536)
 [![Stars](https://img.shields.io/github/stars/Brandon12536?label=Estrellas&style=flat-square&color=1a4a8a&affiliations=OWNER&logo=github)](https://github.com/Brandon12536)
-[![Docker Pulls](https://img.shields.io/badge/Docker+Pulls+totales-629-2496ED?style=flat-square&logo=docker)](https://hub.docker.com/u/brandonperezr)
+[![Seguidores](https://img.shields.io/github/followers/Brandon12536?label=Seguidores&style=flat-square&color=1a4a8a&logo=github)](https://github.com/Brandon12536?tab=followers)
 [![Imágenes Docker](https://img.shields.io/badge/Imágenes+Docker-4-2496ED?style=flat-square&logo=docker)](https://hub.docker.com/u/brandonperezr)
 [![Certificaciones](https://img.shields.io/badge/Certificaciones-1-0f3460?style=flat-square&logo=bookstack)](https://github.com/Brandon12536)
 
@@ -99,7 +97,7 @@
 ## 📝 Últimos commits
 
 <!-- COMMITS:START -->
-> ⚙️ Esta sección se actualiza automáticamente cada día con GitHub Actions.
+<!-- Esta sección se actualizará automáticamente cada día con GitHub Actions -->
 <!-- COMMITS:END -->
 
 ---
@@ -423,13 +421,9 @@
 
 ## 🎵 Pasatiempos
 
-<div align="center">
-
-| 🎧 Escuchar música | 🎮 Videojuegos | ✈️ Viajar |
-|:------------------:|:--------------:|:----------:|
-| Desde el bajo hasta el ambient | RPG, estrategia y simuladores | Explorar culturas y lugares |
-
-</div>
+- 🎧 Escuchar música
+- 🎮 Videojuegos
+- ✈️ Viajar
 
 <!-- Footer -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a4a8a,50:0f3460,100:0d1117&height=120&section=footer" width="100%" />
