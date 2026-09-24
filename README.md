@@ -9,7 +9,11 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=%F0%9F%91%8B+Hola%2C+soy+Brandon!;Ingeniero+DevOps+%F0%9F%9A%80;Automatización+%26+Cloud+Native;Docker+%7C+Kubernetes+%7C+CI%2FCD;Construyendo+el+futuro+con+IA" alt="Texto animado" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0f3460&height=80&text=👋%20Hola%2C%20soy%20Brandon%20Pérez%20Reyes&fontColor=ffffff&fontSize=28&fontAlign=50&animation=fadeIn" width="700" alt="Hola soy Brandon" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=1a4a8a&height=50&text=Ingeniero%20DevOps%20%7C%20IA%20%7C%20Cloud%20%7C%20Docker%20%7C%20Kubernetes&fontColor=a0c4ff&fontSize=16&fontAlign=50" width="700" alt="Descripción" />
 </p>
 
 <!-- Métricas rápidas -->
