@@ -13,7 +13,7 @@
 
   [![Seguidores](https://img.shields.io/github/followers/Brandon12536?label=Seguidores&style=for-the-badge&logo=github&color=1a4a8a&labelColor=0d1117)](https://github.com/Brandon12536?tab=followers)
   [![Visitas](https://komarev.com/ghpvc/?username=Brandon12536&style=for-the-badge&label=Visitas&color=0f3460&labelColor=0d1117)](https://github.com/Brandon12536)
-  [![En GitHub desde](https://img.shields.io/badge/En+GitHub+desde-Enero+2019-1a4a8a?style=for-the-badge&logo=github&labelColor=0d1117)](https://github.com/Brandon12536)
+  [![En GitHub desde](https://img.shields.io/badge/En+GitHub+desde-Sep+2021-1a4a8a?style=for-the-badge&logo=github&labelColor=0d1117)](https://github.com/Brandon12536)
 
 </div>
 
