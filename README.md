@@ -13,7 +13,7 @@
 
   [![Visitas](https://komarev.com/ghpvc/?username=Brandon12536&style=for-the-badge&label=Visitas%20al%20perfil&color=0f3460&labelColor=0d1117)](https://github.com/Brandon12536)
   [![En GitHub desde](https://img.shields.io/badge/En%20GitHub%20desde-Sep%202021-1a4a8a?style=for-the-badge&logo=github&labelColor=0d1117)](https://github.com/Brandon12536)
-  [![Experiencia](https://img.shields.io/badge/Años%20de%20experiencia-4%2B-1a4a8a?style=for-the-badge&logo=github&labelColor=0d1117)](https://github.com/Brandon12536)
+  [![Experiencia](https://img.shields.io/badge/Años%20de%20experiencia-3%2B-1a4a8a?style=for-the-badge&logo=github&labelColor=0d1117)](https://github.com/Brandon12536)
 
 </div>
 
@@ -61,7 +61,7 @@
 [![Stars](https://img.shields.io/github/stars/Brandon12536?label=Estrellas&style=flat-square&color=1a4a8a&affiliations=OWNER&logo=github)](https://github.com/Brandon12536)
 [![Proyectos](https://img.shields.io/badge/Proyectos%20en%20línea-5-1a4a8a?style=flat-square&logo=checkmarx)](https://github.com/Brandon12536)
 [![Imágenes Docker](https://img.shields.io/badge/Imágenes%20Docker-4-2496ED?style=flat-square&logo=docker)](https://hub.docker.com/u/brandonperezr)
-[![Certificaciones](https://img.shields.io/badge/Certificaciones-1-0f3460?style=flat-square&logo=bookstack)](https://github.com/Brandon12536)
+[![Certificaciones](https://img.shields.io/badge/Certificaciones-6-0f3460?style=flat-square&logo=bookstack)](https://github.com/Brandon12536)
 
 </td>
 </tr>
@@ -403,9 +403,14 @@
 
 ## 🏅 Certificaciones
 
-| Certificación | Institución | Año |
-|--------------|-------------|-----|
-| 🐍 Introducción a Python | Universidad de Michigan | 2024 |
+| Certificación | Emisor | Área |
+|--------------|--------|------|
+| 🐍 Introducción a Python | Universidad de Michigan | Programación |
+| 🤖 Desarrollo con IA | Credencial Oficial | Inteligencia Artificial |
+| ☁️ Microsoft Azure AI Foundry | Microsoft | Cloud · IA Generativa |
+| 🔄 Implementación de CI/CD en Microsoft Fabric | Microsoft | DevOps · Analytics |
+| 🔒 Protección de Datos ISO 27001 | Credencial Oficial | Seguridad · Cumplimiento |
+| 📊 Ciencia y Análisis de Datos | HP Foundations | Data Science |
 
 ---
 
