@@ -11,9 +11,9 @@
 <!-- Métricas rápidas -->
 <div align="center">
 
-  [![Seguidores](https://img.shields.io/github/followers/Brandon12536?label=Seguidores&style=for-the-badge&logo=github&color=1a4a8a&labelColor=0d1117)](https://github.com/Brandon12536?tab=followers)
-  [![Visitas](https://komarev.com/ghpvc/?username=Brandon12536&style=for-the-badge&label=Visitas&color=0f3460&labelColor=0d1117)](https://github.com/Brandon12536)
+  [![Visitas](https://komarev.com/ghpvc/?username=Brandon12536&style=for-the-badge&label=Visitas%20al%20perfil&color=0f3460&labelColor=0d1117)](https://github.com/Brandon12536)
   [![En GitHub desde](https://img.shields.io/badge/En%20GitHub%20desde-Sep%202021-1a4a8a?style=for-the-badge&logo=github&labelColor=0d1117)](https://github.com/Brandon12536)
+  [![Experiencia](https://img.shields.io/badge/Años%20de%20experiencia-4%2B-1a4a8a?style=for-the-badge&logo=github&labelColor=0d1117)](https://github.com/Brandon12536)
 
 </div>
 
@@ -57,9 +57,9 @@
 
 ### 🏆 Logros
 
-[![Commits](https://img.shields.io/github/commit-activity/t/Brandon12536/Brandon12536?label=Commits+en+perfil&style=flat-square&color=1a4a8a&logo=github)](https://github.com/Brandon12536)
+[![Commits](https://img.shields.io/github/commit-activity/t/Brandon12536/Brandon12536?label=Commits%20en%20perfil&style=flat-square&color=1a4a8a&logo=github)](https://github.com/Brandon12536)
 [![Stars](https://img.shields.io/github/stars/Brandon12536?label=Estrellas&style=flat-square&color=1a4a8a&affiliations=OWNER&logo=github)](https://github.com/Brandon12536)
-[![Seguidores](https://img.shields.io/github/followers/Brandon12536?label=Seguidores&style=flat-square&color=1a4a8a&logo=github)](https://github.com/Brandon12536?tab=followers)
+[![Proyectos](https://img.shields.io/badge/Proyectos%20en%20línea-5-1a4a8a?style=flat-square&logo=checkmarx)](https://github.com/Brandon12536)
 [![Imágenes Docker](https://img.shields.io/badge/Imágenes%20Docker-4-2496ED?style=flat-square&logo=docker)](https://hub.docker.com/u/brandonperezr)
 [![Certificaciones](https://img.shields.io/badge/Certificaciones-1-0f3460?style=flat-square&logo=bookstack)](https://github.com/Brandon12536)
 
@@ -79,10 +79,10 @@
 
 | Imagen | Descripción | Descargas | Tamaño |
 |--------|-------------|-----------|--------|
-| [🛒 ideal-store-gen](https://hub.docker.com/r/brandonperezr/ideal-store-gen) | Generador de tienda ideal | ![Descargas](https://img.shields.io/docker/pulls/brandonperezr/ideal-store-gen?style=flat-square&logo=docker&color=2496ED) | ![Size](https://img.shields.io/docker/image-size/brandonperezr/ideal-store-gen?style=flat-square&color=1a4a8a) |
-| [🏪 ideal-store](https://hub.docker.com/r/brandonperezr/ideal-store) | Aplicación de tienda ideal | ![Descargas](https://img.shields.io/docker/pulls/brandonperezr/ideal-store?style=flat-square&logo=docker&color=2496ED) | ![Size](https://img.shields.io/docker/image-size/brandonperezr/ideal-store?style=flat-square&color=1a4a8a) |
-| [🏠 house](https://hub.docker.com/r/brandonperezr/house) | Proyecto de gestión de casa | ![Descargas](https://img.shields.io/docker/pulls/brandonperezr/house?style=flat-square&logo=docker&color=2496ED) | ![Size](https://img.shields.io/docker/image-size/brandonperezr/house?style=flat-square&color=1a4a8a) |
-| [☕ coffee](https://hub.docker.com/r/brandonperezr/coffee) | Aplicación de cafetería | ![Descargas](https://img.shields.io/docker/pulls/brandonperezr/coffee?style=flat-square&logo=docker&color=2496ED) | ![Size](https://img.shields.io/docker/image-size/brandonperezr/coffee?style=flat-square&color=1a4a8a) |
+| [🛒 ideal-store-gen](https://hub.docker.com/r/brandonperezr/ideal-store-gen) | Generador de productos para tienda con IA | ![Descargas](https://img.shields.io/docker/pulls/brandonperezr/ideal-store-gen?style=flat-square&logo=docker&color=2496ED) | ![Size](https://img.shields.io/docker/image-size/brandonperezr/ideal-store-gen?style=flat-square&color=1a4a8a) |
+| [🏪 ideal-store](https://hub.docker.com/r/brandonperezr/ideal-store) | Tienda e-commerce containerizada lista para producción | ![Descargas](https://img.shields.io/docker/pulls/brandonperezr/ideal-store?style=flat-square&logo=docker&color=2496ED) | ![Size](https://img.shields.io/docker/image-size/brandonperezr/ideal-store?style=flat-square&color=1a4a8a) |
+| [🏠 house](https://hub.docker.com/r/brandonperezr/house) | App de gestión de propiedades e inmuebles | ![Descargas](https://img.shields.io/docker/pulls/brandonperezr/house?style=flat-square&logo=docker&color=2496ED) | ![Size](https://img.shields.io/docker/image-size/brandonperezr/house?style=flat-square&color=1a4a8a) |
+| [☕ coffee](https://hub.docker.com/r/brandonperezr/coffee) | Plataforma de pedidos para cafetería containerizada | ![Descargas](https://img.shields.io/docker/pulls/brandonperezr/coffee?style=flat-square&logo=docker&color=2496ED) | ![Size](https://img.shields.io/docker/image-size/brandonperezr/coffee?style=flat-square&color=1a4a8a) |
 
 ---
 
@@ -93,20 +93,18 @@
 | [🌐 Maybetours](https://maybetours.com/) | Aplicación web de reservación de viajes | PHP · Stripe · Bootstrap5 · CSS3 · HTML5 | ![online](https://img.shields.io/badge/en%20línea-1a4a8a?style=flat-square) |
 | [🥩 Carvão](https://carvaoapp.netlify.app/) | Landing page para steakhouse brasileño con rodizio, cortes premium y mariscos | Astro · Tailwind CSS · JavaScript | ![online](https://img.shields.io/badge/en%20línea-1a4a8a?style=flat-square) |
 | [☕ Saborearte Café](https://saboreartecafe.netlify.app/) | E-commerce de café de especialidad con carrito, pedidos en línea y domicilio | React · TypeScript · Tailwind CSS · Supabase | ![online](https://img.shields.io/badge/en%20línea-1a4a8a?style=flat-square) |
-| [🤠 El Tranquero](https://eltranquero.com/#/) | Aplicación web para negocio local | React · JavaScript | ![online](https://img.shields.io/badge/en%20línea-1a4a8a?style=flat-square) |
+| [🤠 El Tranquero](https://eltranquero.com/#/) | Aplicación web para negocio local con frontend moderno y backend de alto rendimiento | Vue.js · Rust | ![online](https://img.shields.io/badge/en%20línea-1a4a8a?style=flat-square) |
+| [🏭 Comter México](https://comtermexico.com/) | Sitio corporativo para empresa de reparación y manufactura electrónica industrial desde 1994 | HTML5 · CSS3 · JavaScript | ![online](https://img.shields.io/badge/en%20línea-1a4a8a?style=flat-square) |
 
 ---
 
 ## 📝 Últimos commits
+---
 
 <!-- COMMITS:START -->
-<!-- Esta sección se actualizará automáticamente cada día con GitHub Actions -->
 <!-- COMMITS:END -->
 
 ---
-
-## 🧠 Habilidades principales
-
 <div align="center">
 
 ### 🌐 Frontend & Estilos
