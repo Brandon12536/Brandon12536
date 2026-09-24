@@ -13,7 +13,7 @@
 
   [![Seguidores](https://img.shields.io/github/followers/Brandon12536?label=Seguidores&style=for-the-badge&logo=github&color=1a4a8a&labelColor=0d1117)](https://github.com/Brandon12536?tab=followers)
   [![Visitas](https://komarev.com/ghpvc/?username=Brandon12536&style=for-the-badge&label=Visitas&color=0f3460&labelColor=0d1117)](https://github.com/Brandon12536)
-  [![En GitHub desde](https://img.shields.io/badge/En+GitHub+desde-Sep+2021-1a4a8a?style=for-the-badge&logo=github&labelColor=0d1117)](https://github.com/Brandon12536)
+  [![En GitHub desde](https://img.shields.io/badge/En%20GitHub%20desde-Sep%202021-1a4a8a?style=for-the-badge&logo=github&labelColor=0d1117)](https://github.com/Brandon12536)
 
 </div>
 
@@ -60,7 +60,7 @@
 [![Commits](https://img.shields.io/github/commit-activity/t/Brandon12536/Brandon12536?label=Commits+en+perfil&style=flat-square&color=1a4a8a&logo=github)](https://github.com/Brandon12536)
 [![Stars](https://img.shields.io/github/stars/Brandon12536?label=Estrellas&style=flat-square&color=1a4a8a&affiliations=OWNER&logo=github)](https://github.com/Brandon12536)
 [![Seguidores](https://img.shields.io/github/followers/Brandon12536?label=Seguidores&style=flat-square&color=1a4a8a&logo=github)](https://github.com/Brandon12536?tab=followers)
-[![Imágenes Docker](https://img.shields.io/badge/Imágenes+Docker-4-2496ED?style=flat-square&logo=docker)](https://hub.docker.com/u/brandonperezr)
+[![Imágenes Docker](https://img.shields.io/badge/Imágenes%20Docker-4-2496ED?style=flat-square&logo=docker)](https://hub.docker.com/u/brandonperezr)
 [![Certificaciones](https://img.shields.io/badge/Certificaciones-1-0f3460?style=flat-square&logo=bookstack)](https://github.com/Brandon12536)
 
 </td>
