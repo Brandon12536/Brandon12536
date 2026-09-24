@@ -64,19 +64,11 @@ Here are some ideas to get you started:
 
 ## 🧑‍💻 About Me
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Brandon12536&show_icons=true&theme=github_dark&hide_border=true" align="right" />
-  
-  Soy un ingeniero DevOps con pasión por la inteligencia artificial, la automatización y el diseño de interfaces. Me encanta combinar creatividad y tecnología para resolver problemas reales.
-</p>
+Soy un ingeniero DevOps con pasión por la inteligencia artificial, la automatización y el diseño de interfaces. Me encanta combinar creatividad y tecnología para resolver problemas reales.
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brandon12536&layout=compact&theme=github_dark&hide_border=true" align="right" />
-  
-  - 🧠 Siempre aprendiendo cosas nuevas
-  - 🎯 Amante de los retos técnicos
-  - 💡 Interesado en soluciones reales con IA
-</p>
+- 🧠 Siempre aprendiendo cosas nuevas
+- 🎯 Amante de los retos técnicos
+- 💡 Interesado en soluciones reales con IA
 
 ---
 
@@ -403,17 +395,24 @@ Here are some ideas to get you started:
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Brandon12536&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="GitHub Stats" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brandon12536&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Top Languages" />
-</p>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Brandon12536&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brandon12536&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Brandon12536&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
-</p>
+</div>
+
+<div align="center">
+
+  <img src="https://streak-stats.demolab.com/?user=Brandon12536&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&mode=weekly" alt="GitHub Streak" />
+
+</div>
+
+<div align="center">
+
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Brandon12536&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
+
+</div>
 
 ## 📫 Contact
 
