@@ -91,6 +91,9 @@
 | Proyecto | Descripción | Tecnologías | Estado |
 |---------|-------------|-------------|--------|
 | [🌐 Maybetours](https://maybetours.com/) | Aplicación web de reservación de viajes | PHP · Stripe · Bootstrap5 · CSS3 · HTML5 | ![online](https://img.shields.io/badge/en%20línea-1a4a8a?style=flat-square) |
+| [🥩 Carvão](https://carvaoapp.netlify.app/) | Landing page para steakhouse brasileño con rodizio, cortes premium y mariscos | Astro · Tailwind CSS · JavaScript | ![online](https://img.shields.io/badge/en%20línea-1a4a8a?style=flat-square) |
+| [☕ Saborearte Café](https://saboreartecafe.netlify.app/) | E-commerce de café de especialidad con carrito, pedidos en línea y domicilio | React · TypeScript · Tailwind CSS · Supabase | ![online](https://img.shields.io/badge/en%20línea-1a4a8a?style=flat-square) |
+| [🤠 El Tranquero](https://eltranquero.com/#/) | Aplicación web para negocio local | React · JavaScript | ![online](https://img.shields.io/badge/en%20línea-1a4a8a?style=flat-square) |
 
 ---
 
