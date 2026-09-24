@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 <p align="center">
   <a href="https://github.com/Brandon12536">
-    <img src="img/background.png" alt="Background Image" width="800" style="border-radius: 30px;" />
+    <img src="img/background.png" alt="Background Image" width="800" style="border-radius: 50px;" />
   </a>
 </p>
 
