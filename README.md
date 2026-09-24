@@ -58,7 +58,6 @@
 ### 🏆 Logros
 
 [![Commits](https://img.shields.io/github/commit-activity/t/Brandon12536/Brandon12536?label=Commits%20en%20perfil&style=flat-square&color=1a4a8a&logo=github)](https://github.com/Brandon12536)
-[![Stars](https://img.shields.io/github/stars/Brandon12536?label=Estrellas&style=flat-square&color=1a4a8a&affiliations=OWNER&logo=github)](https://github.com/Brandon12536)
 [![Proyectos](https://img.shields.io/badge/Proyectos%20en%20línea-5-1a4a8a?style=flat-square&logo=checkmarx)](https://github.com/Brandon12536)
 [![Imágenes Docker](https://img.shields.io/badge/Imágenes%20Docker-4-2496ED?style=flat-square&logo=docker)](https://hub.docker.com/u/brandonperezr)
 [![Certificaciones](https://img.shields.io/badge/Certificaciones-6-0f3460?style=flat-square&logo=bookstack)](https://github.com/Brandon12536)
@@ -93,8 +92,8 @@
 | [🌐 Maybetours](https://maybetours.com/) | Aplicación web de reservación de viajes | PHP · Stripe · Bootstrap5 · CSS3 · HTML5 | ![online](https://img.shields.io/badge/en%20línea-1a4a8a?style=flat-square) |
 | [🥩 Carvão](https://carvaoapp.netlify.app/) | Landing page para steakhouse brasileño con rodizio, cortes premium y mariscos | Astro · Tailwind CSS · JavaScript | ![online](https://img.shields.io/badge/en%20línea-1a4a8a?style=flat-square) |
 | [☕ Saborearte Café](https://saboreartecafe.netlify.app/) | E-commerce de café de especialidad con carrito, pedidos en línea y domicilio | React · TypeScript · Tailwind CSS · Supabase | ![online](https://img.shields.io/badge/en%20línea-1a4a8a?style=flat-square) |
-| [🤠 El Tranquero](https://eltranquero.com/#/) | Aplicación web para negocio local con frontend moderno y backend de alto rendimiento | Vue.js · Rust | ![online](https://img.shields.io/badge/en%20línea-1a4a8a?style=flat-square) |
-| [🏭 Comter México](https://comtermexico.com/) | Sitio corporativo para empresa de reparación y manufactura electrónica industrial desde 1994 | HTML5 · CSS3 · JavaScript | ![online](https://img.shields.io/badge/en%20línea-1a4a8a?style=flat-square) |
+| [🤠 El Tranquero](https://eltranquero.com/#/) | Plataforma web full-stack para gestión de negocio: catálogo, inventario y operaciones con backend Rust de alto rendimiento | Vue.js · Rust | ![online](https://img.shields.io/badge/en%20línea-1a4a8a?style=flat-square) |
+| [🏭 Comter México](https://comtermexico.com/) | Sitio corporativo bilingüe para empresa SWAT de reparación electrónica industrial con 30+ años, clientes como Molex, Flex y Sanmina | HTML5 · CSS3 · JavaScript | ![online](https://img.shields.io/badge/en%20línea-1a4a8a?style=flat-square) |
 
 ---
 
