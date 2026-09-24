@@ -18,7 +18,9 @@ Here are some ideas to get you started:
 -->
 
 <p align="center">
-  <img src="img/background.png" alt="Background Image" style="max-width: 100%; height: auto; border-radius: 30px;" />
+  <a href="https://github.com/Brandon12536">
+    <img src="img/background.png" alt="Background Image" width="800" style="border-radius: 30px;" />
+  </a>
 </p>
 
 <p align="center">
